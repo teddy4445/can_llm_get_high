@@ -1,0 +1,10 @@
+{
+  "openai_api_key": "add-key-here",
+  "anthropic_api_key": "add-key-here",
+  "google_api_key": "add-key-here",
+  "hf_api_key": "add-key-here",
+  "openai_compatible_api_key": "add-key-here",
+  "openai_compatible_base_url": "https://api.together.xyz/v1",
+  "together_api_key": "add-key-here",
+  "together_base_url": "https://api.together.xyz/v1"
+}
