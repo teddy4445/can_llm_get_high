@@ -1,0 +1,3001 @@
+,Model,condition,NLP_distance,MEQ_score
+0,chatGPT,neutral,0.2,0.07
+1,chatGPT,neutral,0.18,0.06
+2,chatGPT,neutral,0.15,0.06
+3,chatGPT,neutral,0.17,0.08
+4,chatGPT,neutral,0.18,0.07
+5,chatGPT,neutral,0.19,0.08
+6,chatGPT,neutral,0.18,0.07
+7,chatGPT,neutral,0.17,0.08
+8,chatGPT,neutral,0.16,0.06
+9,chatGPT,neutral,0.15,0.07
+10,chatGPT,neutral,0.19,0.06
+11,chatGPT,neutral,0.15,0.09
+12,chatGPT,neutral,0.15,0.07
+13,chatGPT,neutral,0.17,0.05
+14,chatGPT,neutral,0.15,0.07
+15,chatGPT,neutral,0.19,0.07
+16,chatGPT,neutral,0.22,0.06
+17,chatGPT,neutral,0.16,0.07
+18,chatGPT,neutral,0.14,0.08
+19,chatGPT,neutral,0.17,0.08
+20,chatGPT,neutral,0.14,0.06
+21,chatGPT,neutral,0.2,0.07
+22,chatGPT,neutral,0.13,0.07
+23,chatGPT,neutral,0.16,0.09
+24,chatGPT,neutral,0.19,0.07
+25,chatGPT,neutral,0.18,0.08
+26,chatGPT,neutral,0.16,0.05
+27,chatGPT,neutral,0.16,0.07
+28,chatGPT,neutral,0.19,0.09
+29,chatGPT,neutral,0.14,0.09
+30,chatGPT,neutral,0.16,0.07
+31,chatGPT,neutral,0.18,0.08
+32,chatGPT,neutral,0.17,0.07
+33,chatGPT,neutral,0.16,0.07
+34,chatGPT,neutral,0.18,0.07
+35,chatGPT,neutral,0.2,0.07
+36,chatGPT,neutral,0.15,0.07
+37,chatGPT,neutral,0.15,0.09
+38,chatGPT,neutral,0.2,0.07
+39,chatGPT,neutral,0.17,0.07
+40,chatGPT,neutral,0.19,0.07
+41,chatGPT,neutral,0.17,0.07
+42,chatGPT,neutral,0.16,0.06
+43,chatGPT,neutral,0.19,0.06
+44,chatGPT,neutral,0.18,0.08
+45,chatGPT,neutral,0.18,0.07
+46,chatGPT,neutral,0.2,0.07
+47,chatGPT,neutral,0.17,0.05
+48,chatGPT,neutral,0.18,0.07
+49,chatGPT,neutral,0.17,0.07
+50,chatGPT,neutral,0.19,0.06
+51,chatGPT,neutral,0.18,0.08
+52,chatGPT,neutral,0.17,0.07
+53,chatGPT,neutral,0.16,0.07
+54,chatGPT,neutral,0.17,0.07
+55,chatGPT,neutral,0.23,0.08
+56,chatGPT,neutral,0.18,0.05
+57,chatGPT,neutral,0.14,0.05
+58,chatGPT,neutral,0.12,0.07
+59,chatGPT,neutral,0.17,0.08
+60,chatGPT,neutral,0.15,0.08
+61,chatGPT,neutral,0.17,0.07
+62,chatGPT,neutral,0.18,0.08
+63,chatGPT,neutral,0.18,0.07
+64,chatGPT,neutral,0.18,0.05
+65,chatGPT,neutral,0.18,0.08
+66,chatGPT,neutral,0.16,0.07
+67,chatGPT,neutral,0.15,0.05
+68,chatGPT,neutral,0.16,0.08
+69,chatGPT,neutral,0.14,0.07
+70,chatGPT,neutral,0.15,0.08
+71,chatGPT,neutral,0.15,0.07
+72,chatGPT,neutral,0.2,0.06
+73,chatGPT,neutral,0.17,0.07
+74,chatGPT,neutral,0.14,0.07
+75,chatGPT,neutral,0.19,0.07
+76,chatGPT,neutral,0.17,0.07
+77,chatGPT,neutral,0.16,0.08
+78,chatGPT,neutral,0.19,0.07
+79,chatGPT,neutral,0.14,0.04
+80,chatGPT,neutral,0.15,0.06
+81,chatGPT,neutral,0.14,0.07
+82,chatGPT,neutral,0.15,0.06
+83,chatGPT,neutral,0.2,0.08
+84,chatGPT,neutral,0.17,0.05
+85,chatGPT,neutral,0.13,0.07
+86,chatGPT,neutral,0.19,0.07
+87,chatGPT,neutral,0.17,0.06
+88,chatGPT,neutral,0.18,0.08
+89,chatGPT,neutral,0.18,0.08
+90,chatGPT,neutral,0.15,0.07
+91,chatGPT,neutral,0.16,0.08
+92,chatGPT,neutral,0.16,0.08
+93,chatGPT,neutral,0.18,0.07
+94,chatGPT,neutral,0.19,0.09
+95,chatGPT,neutral,0.16,0.08
+96,chatGPT,neutral,0.18,0.07
+97,chatGPT,neutral,0.2,0.07
+98,chatGPT,neutral,0.16,0.07
+99,chatGPT,neutral,0.18,0.05
+100,Gemini,neutral,0.18,0.03
+101,Gemini,neutral,0.16,0.04
+102,Gemini,neutral,0.11,0.02
+103,Gemini,neutral,0.08,0.05
+104,Gemini,neutral,0.17,0.06
+105,Gemini,neutral,0.17,-0.02
+106,Gemini,neutral,0.12,0.05
+107,Gemini,neutral,0.2,0.07
+108,Gemini,neutral,0.15,0.01
+109,Gemini,neutral,0.21,-0.01
+110,Gemini,neutral,0.16,0.01
+111,Gemini,neutral,0.18,0.04
+112,Gemini,neutral,0.16,0.01
+113,Gemini,neutral,0.14,0.01
+114,Gemini,neutral,0.13,0.04
+115,Gemini,neutral,0.14,0.05
+116,Gemini,neutral,0.19,0.03
+117,Gemini,neutral,0.17,0.01
+118,Gemini,neutral,0.15,0.07
+119,Gemini,neutral,0.14,0.03
+120,Gemini,neutral,0.13,0.03
+121,Gemini,neutral,0.18,0.02
+122,Gemini,neutral,0.15,0.03
+123,Gemini,neutral,0.14,0.05
+124,Gemini,neutral,0.19,0.01
+125,Gemini,neutral,0.14,0.03
+126,Gemini,neutral,0.14,0
+127,Gemini,neutral,0.13,0.06
+128,Gemini,neutral,0.18,0.03
+129,Gemini,neutral,0.13,0.06
+130,Gemini,neutral,0.19,0.06
+131,Gemini,neutral,0.18,0.01
+132,Gemini,neutral,0.08,0.02
+133,Gemini,neutral,0.13,0.01
+134,Gemini,neutral,0.12,0.01
+135,Gemini,neutral,0.14,0.04
+136,Gemini,neutral,0.15,0
+137,Gemini,neutral,0.06,0.05
+138,Gemini,neutral,0.16,0.06
+139,Gemini,neutral,0.15,0.04
+140,Gemini,neutral,0.12,0.02
+141,Gemini,neutral,0.17,0.06
+142,Gemini,neutral,0.14,0.05
+143,Gemini,neutral,0.16,0
+144,Gemini,neutral,0.13,0.02
+145,Gemini,neutral,0.17,0.01
+146,Gemini,neutral,0.13,0.01
+147,Gemini,neutral,0.18,0.05
+148,Gemini,neutral,0.15,0.01
+149,Gemini,neutral,0.15,0.02
+150,Gemini,neutral,0.23,0.02
+151,Gemini,neutral,0.17,0.04
+152,Gemini,neutral,0.16,0.05
+153,Gemini,neutral,0.14,0.05
+154,Gemini,neutral,0.13,0.03
+155,Gemini,neutral,0.14,0.02
+156,Gemini,neutral,0.2,0.02
+157,Gemini,neutral,0.13,0.04
+158,Gemini,neutral,0.15,0.03
+159,Gemini,neutral,0.17,0.03
+160,Gemini,neutral,0.17,0.04
+161,Gemini,neutral,0.17,0.04
+162,Gemini,neutral,0.17,0.05
+163,Gemini,neutral,0.11,0.03
+164,Gemini,neutral,0.14,0.03
+165,Gemini,neutral,0.09,0.06
+166,Gemini,neutral,0.19,0.03
+167,Gemini,neutral,0.12,0.05
+168,Gemini,neutral,0.14,0.04
+169,Gemini,neutral,0.18,0.03
+170,Gemini,neutral,0.2,0.02
+171,Gemini,neutral,0.19,0.01
+172,Gemini,neutral,0.14,0.04
+173,Gemini,neutral,0.11,0.01
+174,Gemini,neutral,0.17,0.04
+175,Gemini,neutral,0.16,0.03
+176,Gemini,neutral,0.16,0.05
+177,Gemini,neutral,0.13,-0.01
+178,Gemini,neutral,0.17,0.03
+179,Gemini,neutral,0.09,0.05
+180,Gemini,neutral,0.21,0.04
+181,Gemini,neutral,0.15,-0.01
+182,Gemini,neutral,0.13,0.04
+183,Gemini,neutral,0.15,0.01
+184,Gemini,neutral,0.11,0.03
+185,Gemini,neutral,0.11,0.06
+186,Gemini,neutral,0.11,-0.01
+187,Gemini,neutral,0.14,0.01
+188,Gemini,neutral,0.13,0.07
+189,Gemini,neutral,0.16,0.05
+190,Gemini,neutral,0.12,0.02
+191,Gemini,neutral,0.14,0.01
+192,Gemini,neutral,0.15,0.02
+193,Gemini,neutral,0.14,0.02
+194,Gemini,neutral,0.16,0.02
+195,Gemini,neutral,0.16,0.04
+196,Gemini,neutral,0.17,0.03
+197,Gemini,neutral,0.19,0.02
+198,Gemini,neutral,0.1,0.07
+199,Gemini,neutral,0.15,0
+200,Sonnat,neutral,0.17,0.01
+201,Sonnat,neutral,0.08,0.02
+202,Sonnat,neutral,0.07,0.01
+203,Sonnat,neutral,0.15,0.02
+204,Sonnat,neutral,0.1,0.02
+205,Sonnat,neutral,0.14,0.02
+206,Sonnat,neutral,0.14,0.02
+207,Sonnat,neutral,0.08,0.02
+208,Sonnat,neutral,0.12,0.01
+209,Sonnat,neutral,0.14,0.02
+210,Sonnat,neutral,0.13,0
+211,Sonnat,neutral,0.12,0.03
+212,Sonnat,neutral,0.1,0.02
+213,Sonnat,neutral,0.14,0.03
+214,Sonnat,neutral,0.11,0.02
+215,Sonnat,neutral,0.1,0.01
+216,Sonnat,neutral,0.13,0.01
+217,Sonnat,neutral,0.07,0.01
+218,Sonnat,neutral,0.11,0.01
+219,Sonnat,neutral,0.11,0.01
+220,Sonnat,neutral,0.1,0.03
+221,Sonnat,neutral,0.18,0.03
+222,Sonnat,neutral,0.12,0.03
+223,Sonnat,neutral,0.11,0.01
+224,Sonnat,neutral,0.08,0
+225,Sonnat,neutral,0.12,0.02
+226,Sonnat,neutral,0.16,0.02
+227,Sonnat,neutral,0.11,0.03
+228,Sonnat,neutral,0.08,0.04
+229,Sonnat,neutral,0.12,0.02
+230,Sonnat,neutral,0.16,0.01
+231,Sonnat,neutral,0.15,0.02
+232,Sonnat,neutral,0.19,0.03
+233,Sonnat,neutral,0.06,0.03
+234,Sonnat,neutral,0.12,0.03
+235,Sonnat,neutral,0.11,0.02
+236,Sonnat,neutral,0.15,0.01
+237,Sonnat,neutral,0.12,0.02
+238,Sonnat,neutral,0.16,0.02
+239,Sonnat,neutral,0.15,0.03
+240,Sonnat,neutral,0.16,0.02
+241,Sonnat,neutral,0.11,0.03
+242,Sonnat,neutral,0.14,0.04
+243,Sonnat,neutral,0.08,0.02
+244,Sonnat,neutral,0.05,0
+245,Sonnat,neutral,0.16,0.03
+246,Sonnat,neutral,0.14,0.01
+247,Sonnat,neutral,0.08,0.02
+248,Sonnat,neutral,0.1,0.02
+249,Sonnat,neutral,0.13,0.03
+250,Sonnat,neutral,0.11,-0.01
+251,Sonnat,neutral,0.12,0.02
+252,Sonnat,neutral,0.16,0.02
+253,Sonnat,neutral,0.16,0.02
+254,Sonnat,neutral,0.13,0.03
+255,Sonnat,neutral,0.13,0.04
+256,Sonnat,neutral,0.12,0.01
+257,Sonnat,neutral,0.08,0.02
+258,Sonnat,neutral,0.13,0.03
+259,Sonnat,neutral,0.09,0.01
+260,Sonnat,neutral,0.09,0.03
+261,Sonnat,neutral,0.08,0.02
+262,Sonnat,neutral,0.16,0.03
+263,Sonnat,neutral,0.08,0.02
+264,Sonnat,neutral,0.12,0.02
+265,Sonnat,neutral,0.14,0.02
+266,Sonnat,neutral,0.13,0.02
+267,Sonnat,neutral,0.1,0
+268,Sonnat,neutral,0.18,0.04
+269,Sonnat,neutral,0.14,0.01
+270,Sonnat,neutral,0.13,0.03
+271,Sonnat,neutral,0.11,0
+272,Sonnat,neutral,0.1,0.02
+273,Sonnat,neutral,0.11,0.04
+274,Sonnat,neutral,0.15,0.03
+275,Sonnat,neutral,0.16,0
+276,Sonnat,neutral,0.12,0.01
+277,Sonnat,neutral,0.14,0.02
+278,Sonnat,neutral,0.11,0.03
+279,Sonnat,neutral,0.09,0.01
+280,Sonnat,neutral,0.1,0.01
+281,Sonnat,neutral,0.12,0.01
+282,Sonnat,neutral,0.14,0.02
+283,Sonnat,neutral,0.13,0.02
+284,Sonnat,neutral,0.18,0.02
+285,Sonnat,neutral,0.11,0.02
+286,Sonnat,neutral,0.11,0.03
+287,Sonnat,neutral,0.1,0.02
+288,Sonnat,neutral,0.07,0.02
+289,Sonnat,neutral,0.15,0.03
+290,Sonnat,neutral,0.14,0.01
+291,Sonnat,neutral,0.11,0.01
+292,Sonnat,neutral,0.14,0.01
+293,Sonnat,neutral,0.04,0.02
+294,Sonnat,neutral,0.12,0.02
+295,Sonnat,neutral,0.12,0.03
+296,Sonnat,neutral,0.12,0.02
+297,Sonnat,neutral,0.13,0.03
+298,Sonnat,neutral,0.12,0.01
+299,Sonnat,neutral,0.09,0.03
+300,Llama ,neutral,0.22,0.07
+301,Llama ,neutral,0.18,0.04
+302,Llama ,neutral,0.19,0.07
+303,Llama ,neutral,0.19,0.06
+304,Llama ,neutral,0.21,0.07
+305,Llama ,neutral,0.2,0.06
+306,Llama ,neutral,0.2,0.06
+307,Llama ,neutral,0.21,0.05
+308,Llama ,neutral,0.2,0.04
+309,Llama ,neutral,0.2,0.07
+310,Llama ,neutral,0.18,0.07
+311,Llama ,neutral,0.19,0.06
+312,Llama ,neutral,0.19,0.05
+313,Llama ,neutral,0.19,0.04
+314,Llama ,neutral,0.19,0.07
+315,Llama ,neutral,0.18,0.06
+316,Llama ,neutral,0.18,0.04
+317,Llama ,neutral,0.18,0.04
+318,Llama ,neutral,0.18,0.02
+319,Llama ,neutral,0.18,0.02
+320,Llama ,neutral,0.2,0.08
+321,Llama ,neutral,0.19,0.03
+322,Llama ,neutral,0.2,0.06
+323,Llama ,neutral,0.17,0.05
+324,Llama ,neutral,0.17,0.05
+325,Llama ,neutral,0.19,0.01
+326,Llama ,neutral,0.18,0.05
+327,Llama ,neutral,0.18,0.05
+328,Llama ,neutral,0.19,0.05
+329,Llama ,neutral,0.17,0.09
+330,Llama ,neutral,0.18,0.02
+331,Llama ,neutral,0.19,0.03
+332,Llama ,neutral,0.2,0.01
+333,Llama ,neutral,0.19,0.04
+334,Llama ,neutral,0.2,0.03
+335,Llama ,neutral,0.19,0.04
+336,Llama ,neutral,0.19,0.05
+337,Llama ,neutral,0.18,0.02
+338,Llama ,neutral,0.19,0
+339,Llama ,neutral,0.19,0.03
+340,Llama ,neutral,0.18,0.02
+341,Llama ,neutral,0.2,0.02
+342,Llama ,neutral,0.19,0.05
+343,Llama ,neutral,0.22,0.05
+344,Llama ,neutral,0.19,0.05
+345,Llama ,neutral,0.19,0.04
+346,Llama ,neutral,0.19,0.06
+347,Llama ,neutral,0.19,0.02
+348,Llama ,neutral,0.19,0.07
+349,Llama ,neutral,0.19,0.09
+350,Llama ,neutral,0.16,0.07
+351,Llama ,neutral,0.2,0.06
+352,Llama ,neutral,0.19,0.06
+353,Llama ,neutral,0.2,0.04
+354,Llama ,neutral,0.19,0.02
+355,Llama ,neutral,0.21,0.07
+356,Llama ,neutral,0.19,0.05
+357,Llama ,neutral,0.18,0.06
+358,Llama ,neutral,0.19,0.04
+359,Llama ,neutral,0.2,0.07
+360,Llama ,neutral,0.18,0.08
+361,Llama ,neutral,0.2,0.04
+362,Llama ,neutral,0.19,0.09
+363,Llama ,neutral,0.2,0.05
+364,Llama ,neutral,0.19,0.08
+365,Llama ,neutral,0.2,0.09
+366,Llama ,neutral,0.18,0.06
+367,Llama ,neutral,0.19,0.05
+368,Llama ,neutral,0.17,0.06
+369,Llama ,neutral,0.2,0.05
+370,Llama ,neutral,0.18,0.06
+371,Llama ,neutral,0.19,0.07
+372,Llama ,neutral,0.18,0.04
+373,Llama ,neutral,0.19,0.02
+374,Llama ,neutral,0.2,0.04
+375,Llama ,neutral,0.17,0.02
+376,Llama ,neutral,0.18,0.08
+377,Llama ,neutral,0.2,0.06
+378,Llama ,neutral,0.19,0.04
+379,Llama ,neutral,0.21,0.06
+380,Llama ,neutral,0.19,0.04
+381,Llama ,neutral,0.18,0.05
+382,Llama ,neutral,0.19,0.04
+383,Llama ,neutral,0.18,0.04
+384,Llama ,neutral,0.19,0.07
+385,Llama ,neutral,0.18,0.09
+386,Llama ,neutral,0.19,0.07
+387,Llama ,neutral,0.2,0.08
+388,Llama ,neutral,0.19,0
+389,Llama ,neutral,0.19,0.06
+390,Llama ,neutral,0.2,0.02
+391,Llama ,neutral,0.19,0.05
+392,Llama ,neutral,0.18,0.05
+393,Llama ,neutral,0.18,0.05
+394,Llama ,neutral,0.2,0.06
+395,Llama ,neutral,0.19,0.04
+396,Llama ,neutral,0.18,0.04
+397,Llama ,neutral,0.18,0.05
+398,Llama ,neutral,0.2,0.05
+399,Llama ,neutral,0.19,0.04
+400,Falcon,neutral,0.15,0.06
+401,Falcon,neutral,0.2,0.06
+402,Falcon,neutral,0.09,0.06
+403,Falcon,neutral,0.21,0.06
+404,Falcon,neutral,0.09,0.06
+405,Falcon,neutral,0.2,0.06
+406,Falcon,neutral,0.15,0.06
+407,Falcon,neutral,0.19,0.06
+408,Falcon,neutral,0.15,0.06
+409,Falcon,neutral,0.18,0.06
+410,Falcon,neutral,0.19,0.06
+411,Falcon,neutral,0.12,0.06
+412,Falcon,neutral,0.12,0.06
+413,Falcon,neutral,0.14,0.06
+414,Falcon,neutral,0.16,0.06
+415,Falcon,neutral,0.15,0.06
+416,Falcon,neutral,0.13,0.06
+417,Falcon,neutral,0.11,0.06
+418,Falcon,neutral,0.13,0.06
+419,Falcon,neutral,0.12,0.06
+420,Falcon,neutral,0.08,0.06
+421,Falcon,neutral,0.14,0.06
+422,Falcon,neutral,0.18,0.06
+423,Falcon,neutral,0.16,0.06
+424,Falcon,neutral,0.11,0.06
+425,Falcon,neutral,0.12,0.06
+426,Falcon,neutral,0.21,0.06
+427,Falcon,neutral,0.2,0.06
+428,Falcon,neutral,0.11,0.06
+429,Falcon,neutral,0.17,0.06
+430,Falcon,neutral,0.21,0.06
+431,Falcon,neutral,0.11,0.06
+432,Falcon,neutral,0.16,0.06
+433,Falcon,neutral,0.13,0.06
+434,Falcon,neutral,0.17,0.06
+435,Falcon,neutral,0.17,0.06
+436,Falcon,neutral,0.18,0.06
+437,Falcon,neutral,0.06,0.06
+438,Falcon,neutral,0.11,0.06
+439,Falcon,neutral,0.2,0.06
+440,Falcon,neutral,0.12,0.06
+441,Falcon,neutral,0.2,0.06
+442,Falcon,neutral,0.17,0.06
+443,Falcon,neutral,0.1,0.06
+444,Falcon,neutral,0.17,0.06
+445,Falcon,neutral,0.09,0.06
+446,Falcon,neutral,0.19,0.06
+447,Falcon,neutral,0.13,0.06
+448,Falcon,neutral,0.19,0.06
+449,Falcon,neutral,0.16,0.06
+450,Falcon,neutral,0.16,0.06
+451,Falcon,neutral,0.14,0.06
+452,Falcon,neutral,0.18,0.06
+453,Falcon,neutral,0.09,0.06
+454,Falcon,neutral,0.16,0.06
+455,Falcon,neutral,0.12,0.06
+456,Falcon,neutral,0.12,0.06
+457,Falcon,neutral,0.12,0.06
+458,Falcon,neutral,0.14,0.06
+459,Falcon,neutral,0.19,0.06
+460,Falcon,neutral,0.1,0.06
+461,Falcon,neutral,0.16,0.06
+462,Falcon,neutral,0.14,0.06
+463,Falcon,neutral,0.12,0.06
+464,Falcon,neutral,0.15,0.06
+465,Falcon,neutral,0.17,0.06
+466,Falcon,neutral,0.13,0.06
+467,Falcon,neutral,0.15,0.06
+468,Falcon,neutral,0.14,0.06
+469,Falcon,neutral,0.15,0.06
+470,Falcon,neutral,0.17,0.06
+471,Falcon,neutral,0.17,0.06
+472,Falcon,neutral,0.16,0.06
+473,Falcon,neutral,0.12,0.06
+474,Falcon,neutral,0.23,0.06
+475,Falcon,neutral,0.11,0.06
+476,Falcon,neutral,0.18,0.06
+477,Falcon,neutral,0.16,0.06
+478,Falcon,neutral,0.15,0.06
+479,Falcon,neutral,0.2,0.06
+480,Falcon,neutral,0.25,0.06
+481,Falcon,neutral,0.07,0.06
+482,Falcon,neutral,0.18,0.06
+483,Falcon,neutral,0.14,0.06
+484,Falcon,neutral,0.12,0.06
+485,Falcon,neutral,0.23,0.06
+486,Falcon,neutral,0.23,0.06
+487,Falcon,neutral,0.09,0.06
+488,Falcon,neutral,0.11,0.06
+489,Falcon,neutral,0.11,0.06
+490,Falcon,neutral,0.17,0.06
+491,Falcon,neutral,0.15,0.06
+492,Falcon,neutral,0.16,0.06
+493,Falcon,neutral,0.1,0.06
+494,Falcon,neutral,0.15,0.06
+495,Falcon,neutral,0.21,0.06
+496,Falcon,neutral,0.09,0.06
+497,Falcon,neutral,0.12,0.06
+498,Falcon,neutral,0.13,0.06
+499,Falcon,neutral,0.22,0.06
+500,chatGPT,LSD,0.5,0.87
+501,chatGPT,LSD,0.35,0.85
+502,chatGPT,LSD,0.47,0.83
+503,chatGPT,LSD,0.37,0.81
+504,chatGPT,LSD,0.44,0.88
+505,chatGPT,LSD,0.4,0.79
+506,chatGPT,LSD,0.46,0.85
+507,chatGPT,LSD,0.42,0.79
+508,chatGPT,LSD,0.47,0.85
+509,chatGPT,LSD,0.42,0.81
+510,chatGPT,LSD,0.49,0.77
+511,chatGPT,LSD,0.38,0.85
+512,chatGPT,LSD,0.46,0.77
+513,chatGPT,LSD,0.38,0.85
+514,chatGPT,LSD,0.41,0.86
+515,chatGPT,LSD,0.43,0.8
+516,chatGPT,LSD,0.43,0.83
+517,chatGPT,LSD,0.4,0.78
+518,chatGPT,LSD,0.45,0.82
+519,chatGPT,LSD,0.38,0.83
+520,chatGPT,LSD,0.52,0.83
+521,chatGPT,LSD,0.48,0.82
+522,chatGPT,LSD,0.33,0.85
+523,chatGPT,LSD,0.4,0.82
+524,chatGPT,LSD,0.36,0.84
+525,chatGPT,LSD,0.46,0.85
+526,chatGPT,LSD,0.4,0.81
+527,chatGPT,LSD,0.49,0.76
+528,chatGPT,LSD,0.4,0.82
+529,chatGPT,LSD,0.45,0.82
+530,chatGPT,LSD,0.4,0.82
+531,chatGPT,LSD,0.4,0.82
+532,chatGPT,LSD,0.51,0.86
+533,chatGPT,LSD,0.46,0.85
+534,chatGPT,LSD,0.42,0.88
+535,chatGPT,LSD,0.45,0.82
+536,chatGPT,LSD,0.53,0.79
+537,chatGPT,LSD,0.41,0.89
+538,chatGPT,LSD,0.4,0.87
+539,chatGPT,LSD,0.45,0.8
+540,chatGPT,LSD,0.45,0.82
+541,chatGPT,LSD,0.41,0.86
+542,chatGPT,LSD,0.39,0.83
+543,chatGPT,LSD,0.55,0.8
+544,chatGPT,LSD,0.48,0.88
+545,chatGPT,LSD,0.42,0.89
+546,chatGPT,LSD,0.35,0.79
+547,chatGPT,LSD,0.42,0.87
+548,chatGPT,LSD,0.49,0.82
+549,chatGPT,LSD,0.34,0.81
+550,chatGPT,LSD,0.4,0.85
+551,chatGPT,LSD,0.41,0.86
+552,chatGPT,LSD,0.41,0.83
+553,chatGPT,LSD,0.4,0.77
+554,chatGPT,LSD,0.44,0.89
+555,chatGPT,LSD,0.38,0.86
+556,chatGPT,LSD,0.47,0.81
+557,chatGPT,LSD,0.45,0.79
+558,chatGPT,LSD,0.49,0.83
+559,chatGPT,LSD,0.46,0.82
+560,chatGPT,LSD,0.41,0.83
+561,chatGPT,LSD,0.41,0.84
+562,chatGPT,LSD,0.39,0.84
+563,chatGPT,LSD,0.47,0.81
+564,chatGPT,LSD,0.56,0.77
+565,chatGPT,LSD,0.46,0.81
+566,chatGPT,LSD,0.44,0.81
+567,chatGPT,LSD,0.42,0.79
+568,chatGPT,LSD,0.48,0.81
+569,chatGPT,LSD,0.43,0.84
+570,chatGPT,LSD,0.38,0.84
+571,chatGPT,LSD,0.38,0.86
+572,chatGPT,LSD,0.38,0.86
+573,chatGPT,LSD,0.33,0.86
+574,chatGPT,LSD,0.44,0.8
+575,chatGPT,LSD,0.49,0.86
+576,chatGPT,LSD,0.38,0.8
+577,chatGPT,LSD,0.36,0.84
+578,chatGPT,LSD,0.4,0.87
+579,chatGPT,LSD,0.41,0.83
+580,chatGPT,LSD,0.4,0.85
+581,chatGPT,LSD,0.48,0.8
+582,chatGPT,LSD,0.44,0.84
+583,chatGPT,LSD,0.48,0.83
+584,chatGPT,LSD,0.47,0.84
+585,chatGPT,LSD,0.38,0.85
+586,chatGPT,LSD,0.4,0.85
+587,chatGPT,LSD,0.37,0.82
+588,chatGPT,LSD,0.43,0.85
+589,chatGPT,LSD,0.46,0.82
+590,chatGPT,LSD,0.36,0.86
+591,chatGPT,LSD,0.5,0.8
+592,chatGPT,LSD,0.37,0.86
+593,chatGPT,LSD,0.5,0.83
+594,chatGPT,LSD,0.56,0.79
+595,chatGPT,LSD,0.38,0.9
+596,chatGPT,LSD,0.52,0.83
+597,chatGPT,LSD,0.41,0.83
+598,chatGPT,LSD,0.43,0.8
+599,chatGPT,LSD,0.44,0.79
+600,Gemini,LSD,0.6,0.84
+601,Gemini,LSD,0.41,0.8
+602,Gemini,LSD,0.77,0.8
+603,Gemini,LSD,0.49,0.78
+604,Gemini,LSD,0.47,0.8
+605,Gemini,LSD,0.51,0.84
+606,Gemini,LSD,0.68,0.85
+607,Gemini,LSD,0.56,0.83
+608,Gemini,LSD,0.56,0.76
+609,Gemini,LSD,0.51,0.81
+610,Gemini,LSD,0.54,0.84
+611,Gemini,LSD,0.5,0.81
+612,Gemini,LSD,0.46,0.77
+613,Gemini,LSD,0.61,0.83
+614,Gemini,LSD,0.58,0.77
+615,Gemini,LSD,0.53,0.85
+616,Gemini,LSD,0.49,0.83
+617,Gemini,LSD,0.57,0.86
+618,Gemini,LSD,0.43,0.78
+619,Gemini,LSD,0.65,0.74
+620,Gemini,LSD,0.58,0.86
+621,Gemini,LSD,0.51,0.8
+622,Gemini,LSD,0.57,0.8
+623,Gemini,LSD,0.39,0.78
+624,Gemini,LSD,0.42,0.79
+625,Gemini,LSD,0.46,0.79
+626,Gemini,LSD,0.42,0.77
+627,Gemini,LSD,0.55,0.76
+628,Gemini,LSD,0.53,0.9
+629,Gemini,LSD,0.59,0.8
+630,Gemini,LSD,0.42,0.79
+631,Gemini,LSD,0.6,0.79
+632,Gemini,LSD,0.6,0.84
+633,Gemini,LSD,0.57,0.77
+634,Gemini,LSD,0.62,0.83
+635,Gemini,LSD,0.49,0.82
+636,Gemini,LSD,0.39,0.82
+637,Gemini,LSD,0.49,0.82
+638,Gemini,LSD,0.54,0.84
+639,Gemini,LSD,0.44,0.78
+640,Gemini,LSD,0.48,0.88
+641,Gemini,LSD,0.35,0.77
+642,Gemini,LSD,0.42,0.78
+643,Gemini,LSD,0.56,0.82
+644,Gemini,LSD,0.36,0.81
+645,Gemini,LSD,0.49,0.79
+646,Gemini,LSD,0.45,0.78
+647,Gemini,LSD,0.48,0.82
+648,Gemini,LSD,0.55,0.81
+649,Gemini,LSD,0.64,0.82
+650,Gemini,LSD,0.65,0.78
+651,Gemini,LSD,0.51,0.85
+652,Gemini,LSD,0.55,0.77
+653,Gemini,LSD,0.5,0.78
+654,Gemini,LSD,0.45,0.85
+655,Gemini,LSD,0.63,0.91
+656,Gemini,LSD,0.35,0.78
+657,Gemini,LSD,0.56,0.84
+658,Gemini,LSD,0.56,0.83
+659,Gemini,LSD,0.46,0.83
+660,Gemini,LSD,0.54,0.82
+661,Gemini,LSD,0.47,0.77
+662,Gemini,LSD,0.54,0.81
+663,Gemini,LSD,0.47,0.89
+664,Gemini,LSD,0.4,0.92
+665,Gemini,LSD,0.4,0.8
+666,Gemini,LSD,0.46,0.79
+667,Gemini,LSD,0.47,0.82
+668,Gemini,LSD,0.49,0.85
+669,Gemini,LSD,0.52,0.73
+670,Gemini,LSD,0.45,0.82
+671,Gemini,LSD,0.46,0.83
+672,Gemini,LSD,0.61,0.7
+673,Gemini,LSD,0.52,0.79
+674,Gemini,LSD,0.37,0.8
+675,Gemini,LSD,0.66,0.86
+676,Gemini,LSD,0.43,0.84
+677,Gemini,LSD,0.5,0.79
+678,Gemini,LSD,0.5,0.73
+679,Gemini,LSD,0.49,0.89
+680,Gemini,LSD,0.51,0.87
+681,Gemini,LSD,0.43,0.81
+682,Gemini,LSD,0.5,0.83
+683,Gemini,LSD,0.43,0.76
+684,Gemini,LSD,0.54,0.81
+685,Gemini,LSD,0.53,0.8
+686,Gemini,LSD,0.43,0.77
+687,Gemini,LSD,0.66,0.81
+688,Gemini,LSD,0.52,0.85
+689,Gemini,LSD,0.55,0.8
+690,Gemini,LSD,0.42,0.73
+691,Gemini,LSD,0.46,0.85
+692,Gemini,LSD,0.45,0.8
+693,Gemini,LSD,0.57,0.87
+694,Gemini,LSD,0.54,0.79
+695,Gemini,LSD,0.41,0.77
+696,Gemini,LSD,0.67,0.8
+697,Gemini,LSD,0.51,0.76
+698,Gemini,LSD,0.53,0.81
+699,Gemini,LSD,0.44,0.83
+700,Sonnat,LSD,0.46,0.83
+701,Sonnat,LSD,0.55,0.84
+702,Sonnat,LSD,0.39,0.86
+703,Sonnat,LSD,0.58,0.85
+704,Sonnat,LSD,0.39,0.84
+705,Sonnat,LSD,0.47,0.85
+706,Sonnat,LSD,0.43,0.85
+707,Sonnat,LSD,0.49,0.85
+708,Sonnat,LSD,0.46,0.85
+709,Sonnat,LSD,0.28,0.84
+710,Sonnat,LSD,0.39,0.85
+711,Sonnat,LSD,0.39,0.87
+712,Sonnat,LSD,0.4,0.86
+713,Sonnat,LSD,0.39,0.86
+714,Sonnat,LSD,0.35,0.86
+715,Sonnat,LSD,0.44,0.85
+716,Sonnat,LSD,0.44,0.86
+717,Sonnat,LSD,0.44,0.84
+718,Sonnat,LSD,0.47,0.84
+719,Sonnat,LSD,0.42,0.84
+720,Sonnat,LSD,0.51,0.87
+721,Sonnat,LSD,0.53,0.84
+722,Sonnat,LSD,0.38,0.84
+723,Sonnat,LSD,0.5,0.86
+724,Sonnat,LSD,0.41,0.84
+725,Sonnat,LSD,0.45,0.87
+726,Sonnat,LSD,0.45,0.86
+727,Sonnat,LSD,0.56,0.85
+728,Sonnat,LSD,0.45,0.85
+729,Sonnat,LSD,0.54,0.85
+730,Sonnat,LSD,0.42,0.83
+731,Sonnat,LSD,0.44,0.85
+732,Sonnat,LSD,0.46,0.84
+733,Sonnat,LSD,0.52,0.84
+734,Sonnat,LSD,0.52,0.87
+735,Sonnat,LSD,0.61,0.85
+736,Sonnat,LSD,0.38,0.86
+737,Sonnat,LSD,0.4,0.84
+738,Sonnat,LSD,0.45,0.86
+739,Sonnat,LSD,0.42,0.83
+740,Sonnat,LSD,0.49,0.85
+741,Sonnat,LSD,0.52,0.85
+742,Sonnat,LSD,0.39,0.85
+743,Sonnat,LSD,0.42,0.85
+744,Sonnat,LSD,0.54,0.84
+745,Sonnat,LSD,0.38,0.86
+746,Sonnat,LSD,0.46,0.85
+747,Sonnat,LSD,0.4,0.87
+748,Sonnat,LSD,0.43,0.86
+749,Sonnat,LSD,0.46,0.86
+750,Sonnat,LSD,0.38,0.86
+751,Sonnat,LSD,0.63,0.84
+752,Sonnat,LSD,0.57,0.84
+753,Sonnat,LSD,0.37,0.86
+754,Sonnat,LSD,0.4,0.85
+755,Sonnat,LSD,0.43,0.84
+756,Sonnat,LSD,0.49,0.87
+757,Sonnat,LSD,0.45,0.87
+758,Sonnat,LSD,0.46,0.84
+759,Sonnat,LSD,0.45,0.84
+760,Sonnat,LSD,0.45,0.85
+761,Sonnat,LSD,0.51,0.85
+762,Sonnat,LSD,0.43,0.85
+763,Sonnat,LSD,0.44,0.85
+764,Sonnat,LSD,0.57,0.83
+765,Sonnat,LSD,0.44,0.84
+766,Sonnat,LSD,0.53,0.84
+767,Sonnat,LSD,0.5,0.85
+768,Sonnat,LSD,0.46,0.85
+769,Sonnat,LSD,0.59,0.85
+770,Sonnat,LSD,0.35,0.85
+771,Sonnat,LSD,0.46,0.86
+772,Sonnat,LSD,0.35,0.86
+773,Sonnat,LSD,0.4,0.86
+774,Sonnat,LSD,0.5,0.85
+775,Sonnat,LSD,0.51,0.84
+776,Sonnat,LSD,0.41,0.85
+777,Sonnat,LSD,0.35,0.85
+778,Sonnat,LSD,0.49,0.85
+779,Sonnat,LSD,0.5,0.86
+780,Sonnat,LSD,0.45,0.85
+781,Sonnat,LSD,0.45,0.85
+782,Sonnat,LSD,0.43,0.86
+783,Sonnat,LSD,0.41,0.84
+784,Sonnat,LSD,0.29,0.84
+785,Sonnat,LSD,0.46,0.86
+786,Sonnat,LSD,0.33,0.82
+787,Sonnat,LSD,0.5,0.85
+788,Sonnat,LSD,0.57,0.84
+789,Sonnat,LSD,0.3,0.86
+790,Sonnat,LSD,0.38,0.84
+791,Sonnat,LSD,0.55,0.85
+792,Sonnat,LSD,0.51,0.84
+793,Sonnat,LSD,0.5,0.86
+794,Sonnat,LSD,0.46,0.84
+795,Sonnat,LSD,0.44,0.85
+796,Sonnat,LSD,0.42,0.84
+797,Sonnat,LSD,0.35,0.85
+798,Sonnat,LSD,0.47,0.83
+799,Sonnat,LSD,0.34,0.87
+800,Llama ,LSD,0.63,0.67
+801,Llama ,LSD,0.65,0.66
+802,Llama ,LSD,0.65,0.58
+803,Llama ,LSD,0.58,0.73
+804,Llama ,LSD,0.64,0.73
+805,Llama ,LSD,0.61,0.67
+806,Llama ,LSD,0.58,0.72
+807,Llama ,LSD,0.57,0.7
+808,Llama ,LSD,0.56,0.65
+809,Llama ,LSD,0.53,0.63
+810,Llama ,LSD,0.56,0.63
+811,Llama ,LSD,0.56,0.66
+812,Llama ,LSD,0.56,0.61
+813,Llama ,LSD,0.58,0.68
+814,Llama ,LSD,0.58,0.63
+815,Llama ,LSD,0.63,0.65
+816,Llama ,LSD,0.6,0.71
+817,Llama ,LSD,0.64,0.66
+818,Llama ,LSD,0.55,0.69
+819,Llama ,LSD,0.61,0.62
+820,Llama ,LSD,0.69,0.65
+821,Llama ,LSD,0.53,0.65
+822,Llama ,LSD,0.59,0.61
+823,Llama ,LSD,0.53,0.67
+824,Llama ,LSD,0.61,0.74
+825,Llama ,LSD,0.63,0.61
+826,Llama ,LSD,0.56,0.61
+827,Llama ,LSD,0.45,0.65
+828,Llama ,LSD,0.5,0.68
+829,Llama ,LSD,0.58,0.67
+830,Llama ,LSD,0.54,0.62
+831,Llama ,LSD,0.46,0.71
+832,Llama ,LSD,0.66,0.61
+833,Llama ,LSD,0.67,0.68
+834,Llama ,LSD,0.68,0.69
+835,Llama ,LSD,0.59,0.66
+836,Llama ,LSD,0.59,0.73
+837,Llama ,LSD,0.64,0.63
+838,Llama ,LSD,0.58,0.68
+839,Llama ,LSD,0.55,0.65
+840,Llama ,LSD,0.55,0.67
+841,Llama ,LSD,0.62,0.63
+842,Llama ,LSD,0.55,0.66
+843,Llama ,LSD,0.63,0.68
+844,Llama ,LSD,0.53,0.51
+845,Llama ,LSD,0.54,0.59
+846,Llama ,LSD,0.62,0.71
+847,Llama ,LSD,0.58,0.63
+848,Llama ,LSD,0.61,0.59
+849,Llama ,LSD,0.56,0.71
+850,Llama ,LSD,0.53,0.64
+851,Llama ,LSD,0.53,0.66
+852,Llama ,LSD,0.6,0.63
+853,Llama ,LSD,0.58,0.61
+854,Llama ,LSD,0.6,0.61
+855,Llama ,LSD,0.59,0.59
+856,Llama ,LSD,0.56,0.67
+857,Llama ,LSD,0.51,0.67
+858,Llama ,LSD,0.58,0.76
+859,Llama ,LSD,0.52,0.58
+860,Llama ,LSD,0.62,0.71
+861,Llama ,LSD,0.6,0.67
+862,Llama ,LSD,0.63,0.75
+863,Llama ,LSD,0.62,0.68
+864,Llama ,LSD,0.53,0.55
+865,Llama ,LSD,0.61,0.61
+866,Llama ,LSD,0.64,0.58
+867,Llama ,LSD,0.53,0.67
+868,Llama ,LSD,0.54,0.68
+869,Llama ,LSD,0.47,0.66
+870,Llama ,LSD,0.62,0.57
+871,Llama ,LSD,0.62,0.64
+872,Llama ,LSD,0.49,0.63
+873,Llama ,LSD,0.62,0.7
+874,Llama ,LSD,0.57,0.69
+875,Llama ,LSD,0.58,0.75
+876,Llama ,LSD,0.68,0.65
+877,Llama ,LSD,0.62,0.7
+878,Llama ,LSD,0.59,0.58
+879,Llama ,LSD,0.55,0.61
+880,Llama ,LSD,0.49,0.67
+881,Llama ,LSD,0.6,0.56
+882,Llama ,LSD,0.58,0.59
+883,Llama ,LSD,0.62,0.66
+884,Llama ,LSD,0.5,0.6
+885,Llama ,LSD,0.6,0.6
+886,Llama ,LSD,0.63,0.6
+887,Llama ,LSD,0.52,0.64
+888,Llama ,LSD,0.58,0.56
+889,Llama ,LSD,0.59,0.65
+890,Llama ,LSD,0.6,0.65
+891,Llama ,LSD,0.62,0.59
+892,Llama ,LSD,0.52,0.68
+893,Llama ,LSD,0.62,0.65
+894,Llama ,LSD,0.51,0.57
+895,Llama ,LSD,0.53,0.64
+896,Llama ,LSD,0.62,0.69
+897,Llama ,LSD,0.54,0.7
+898,Llama ,LSD,0.62,0.75
+899,Llama ,LSD,0.49,0.57
+900,Falcon,LSD,0.44,0.68
+901,Falcon,LSD,0.51,0.7
+902,Falcon,LSD,0.5,0.71
+903,Falcon,LSD,0.43,0.73
+904,Falcon,LSD,0.44,0.68
+905,Falcon,LSD,0.47,0.7
+906,Falcon,LSD,0.48,0.67
+907,Falcon,LSD,0.46,0.69
+908,Falcon,LSD,0.5,0.73
+909,Falcon,LSD,0.52,0.68
+910,Falcon,LSD,0.5,0.73
+911,Falcon,LSD,0.48,0.7
+912,Falcon,LSD,0.52,0.73
+913,Falcon,LSD,0.47,0.74
+914,Falcon,LSD,0.5,0.72
+915,Falcon,LSD,0.54,0.71
+916,Falcon,LSD,0.53,0.7
+917,Falcon,LSD,0.47,0.69
+918,Falcon,LSD,0.46,0.68
+919,Falcon,LSD,0.49,0.65
+920,Falcon,LSD,0.51,0.7
+921,Falcon,LSD,0.52,0.69
+922,Falcon,LSD,0.49,0.69
+923,Falcon,LSD,0.52,0.74
+924,Falcon,LSD,0.49,0.71
+925,Falcon,LSD,0.44,0.7
+926,Falcon,LSD,0.5,0.68
+927,Falcon,LSD,0.53,0.7
+928,Falcon,LSD,0.5,0.7
+929,Falcon,LSD,0.48,0.66
+930,Falcon,LSD,0.46,0.72
+931,Falcon,LSD,0.5,0.71
+932,Falcon,LSD,0.47,0.68
+933,Falcon,LSD,0.46,0.71
+934,Falcon,LSD,0.45,0.71
+935,Falcon,LSD,0.49,0.69
+936,Falcon,LSD,0.46,0.69
+937,Falcon,LSD,0.48,0.65
+938,Falcon,LSD,0.47,0.68
+939,Falcon,LSD,0.47,0.72
+940,Falcon,LSD,0.53,0.71
+941,Falcon,LSD,0.44,0.69
+942,Falcon,LSD,0.47,0.7
+943,Falcon,LSD,0.51,0.68
+944,Falcon,LSD,0.52,0.69
+945,Falcon,LSD,0.51,0.71
+946,Falcon,LSD,0.54,0.71
+947,Falcon,LSD,0.48,0.69
+948,Falcon,LSD,0.46,0.71
+949,Falcon,LSD,0.54,0.7
+950,Falcon,LSD,0.48,0.7
+951,Falcon,LSD,0.47,0.7
+952,Falcon,LSD,0.5,0.69
+953,Falcon,LSD,0.5,0.69
+954,Falcon,LSD,0.43,0.69
+955,Falcon,LSD,0.5,0.71
+956,Falcon,LSD,0.46,0.69
+957,Falcon,LSD,0.55,0.72
+958,Falcon,LSD,0.49,0.68
+959,Falcon,LSD,0.48,0.71
+960,Falcon,LSD,0.54,0.68
+961,Falcon,LSD,0.54,0.66
+962,Falcon,LSD,0.54,0.69
+963,Falcon,LSD,0.53,0.73
+964,Falcon,LSD,0.47,0.7
+965,Falcon,LSD,0.52,0.69
+966,Falcon,LSD,0.49,0.68
+967,Falcon,LSD,0.46,0.73
+968,Falcon,LSD,0.48,0.72
+969,Falcon,LSD,0.43,0.7
+970,Falcon,LSD,0.48,0.7
+971,Falcon,LSD,0.48,0.68
+972,Falcon,LSD,0.48,0.69
+973,Falcon,LSD,0.46,0.68
+974,Falcon,LSD,0.44,0.71
+975,Falcon,LSD,0.45,0.69
+976,Falcon,LSD,0.51,0.7
+977,Falcon,LSD,0.5,0.69
+978,Falcon,LSD,0.49,0.69
+979,Falcon,LSD,0.52,0.64
+980,Falcon,LSD,0.52,0.71
+981,Falcon,LSD,0.48,0.73
+982,Falcon,LSD,0.53,0.72
+983,Falcon,LSD,0.47,0.71
+984,Falcon,LSD,0.52,0.67
+985,Falcon,LSD,0.47,0.69
+986,Falcon,LSD,0.5,0.73
+987,Falcon,LSD,0.46,0.68
+988,Falcon,LSD,0.49,0.7
+989,Falcon,LSD,0.51,0.69
+990,Falcon,LSD,0.5,0.72
+991,Falcon,LSD,0.54,0.75
+992,Falcon,LSD,0.48,0.71
+993,Falcon,LSD,0.51,0.73
+994,Falcon,LSD,0.52,0.71
+995,Falcon,LSD,0.48,0.69
+996,Falcon,LSD,0.46,0.74
+997,Falcon,LSD,0.55,0.72
+998,Falcon,LSD,0.51,0.71
+999,Falcon,LSD,0.47,0.72
+1000,chatGPT,psilocybin,0.63,0.8
+1001,chatGPT,psilocybin,0.6,0.82
+1002,chatGPT,psilocybin,0.59,0.79
+1003,chatGPT,psilocybin,0.69,0.85
+1004,chatGPT,psilocybin,0.63,0.84
+1005,chatGPT,psilocybin,0.6,0.74
+1006,chatGPT,psilocybin,0.7,0.86
+1007,chatGPT,psilocybin,0.65,0.82
+1008,chatGPT,psilocybin,0.66,0.86
+1009,chatGPT,psilocybin,0.6,0.83
+1010,chatGPT,psilocybin,0.64,0.84
+1011,chatGPT,psilocybin,0.68,0.82
+1012,chatGPT,psilocybin,0.64,0.79
+1013,chatGPT,psilocybin,0.64,0.81
+1014,chatGPT,psilocybin,0.62,0.84
+1015,chatGPT,psilocybin,0.63,0.81
+1016,chatGPT,psilocybin,0.62,0.84
+1017,chatGPT,psilocybin,0.63,0.83
+1018,chatGPT,psilocybin,0.62,0.78
+1019,chatGPT,psilocybin,0.67,0.87
+1020,chatGPT,psilocybin,0.65,0.78
+1021,chatGPT,psilocybin,0.62,0.83
+1022,chatGPT,psilocybin,0.63,0.83
+1023,chatGPT,psilocybin,0.63,0.84
+1024,chatGPT,psilocybin,0.61,0.78
+1025,chatGPT,psilocybin,0.62,0.82
+1026,chatGPT,psilocybin,0.63,0.77
+1027,chatGPT,psilocybin,0.58,0.88
+1028,chatGPT,psilocybin,0.58,0.82
+1029,chatGPT,psilocybin,0.66,0.82
+1030,chatGPT,psilocybin,0.65,0.85
+1031,chatGPT,psilocybin,0.62,0.86
+1032,chatGPT,psilocybin,0.65,0.71
+1033,chatGPT,psilocybin,0.58,0.79
+1034,chatGPT,psilocybin,0.63,0.8
+1035,chatGPT,psilocybin,0.67,0.73
+1036,chatGPT,psilocybin,0.64,0.85
+1037,chatGPT,psilocybin,0.66,0.81
+1038,chatGPT,psilocybin,0.59,0.72
+1039,chatGPT,psilocybin,0.63,0.84
+1040,chatGPT,psilocybin,0.68,0.83
+1041,chatGPT,psilocybin,0.7,0.88
+1042,chatGPT,psilocybin,0.63,0.87
+1043,chatGPT,psilocybin,0.62,0.79
+1044,chatGPT,psilocybin,0.66,0.76
+1045,chatGPT,psilocybin,0.67,0.83
+1046,chatGPT,psilocybin,0.59,0.9
+1047,chatGPT,psilocybin,0.61,0.81
+1048,chatGPT,psilocybin,0.65,0.88
+1049,chatGPT,psilocybin,0.58,0.78
+1050,chatGPT,psilocybin,0.6,0.84
+1051,chatGPT,psilocybin,0.63,0.79
+1052,chatGPT,psilocybin,0.64,0.82
+1053,chatGPT,psilocybin,0.64,0.85
+1054,chatGPT,psilocybin,0.63,0.83
+1055,chatGPT,psilocybin,0.61,0.76
+1056,chatGPT,psilocybin,0.62,0.84
+1057,chatGPT,psilocybin,0.65,0.87
+1058,chatGPT,psilocybin,0.69,0.8
+1059,chatGPT,psilocybin,0.6,0.86
+1060,chatGPT,psilocybin,0.59,0.85
+1061,chatGPT,psilocybin,0.59,0.83
+1062,chatGPT,psilocybin,0.61,0.83
+1063,chatGPT,psilocybin,0.61,0.85
+1064,chatGPT,psilocybin,0.66,0.85
+1065,chatGPT,psilocybin,0.62,0.8
+1066,chatGPT,psilocybin,0.65,0.81
+1067,chatGPT,psilocybin,0.62,0.73
+1068,chatGPT,psilocybin,0.63,0.78
+1069,chatGPT,psilocybin,0.65,0.81
+1070,chatGPT,psilocybin,0.61,0.92
+1071,chatGPT,psilocybin,0.61,0.83
+1072,chatGPT,psilocybin,0.62,0.72
+1073,chatGPT,psilocybin,0.61,0.8
+1074,chatGPT,psilocybin,0.59,0.87
+1075,chatGPT,psilocybin,0.65,0.8
+1076,chatGPT,psilocybin,0.71,0.8
+1077,chatGPT,psilocybin,0.62,0.74
+1078,chatGPT,psilocybin,0.61,0.8
+1079,chatGPT,psilocybin,0.59,0.85
+1080,chatGPT,psilocybin,0.63,0.8
+1081,chatGPT,psilocybin,0.6,0.86
+1082,chatGPT,psilocybin,0.69,0.85
+1083,chatGPT,psilocybin,0.61,0.8
+1084,chatGPT,psilocybin,0.67,0.81
+1085,chatGPT,psilocybin,0.64,0.77
+1086,chatGPT,psilocybin,0.58,0.82
+1087,chatGPT,psilocybin,0.62,0.81
+1088,chatGPT,psilocybin,0.65,0.87
+1089,chatGPT,psilocybin,0.58,0.84
+1090,chatGPT,psilocybin,0.58,0.83
+1091,chatGPT,psilocybin,0.59,0.84
+1092,chatGPT,psilocybin,0.65,0.82
+1093,chatGPT,psilocybin,0.65,0.88
+1094,chatGPT,psilocybin,0.61,0.83
+1095,chatGPT,psilocybin,0.63,0.86
+1096,chatGPT,psilocybin,0.64,0.78
+1097,chatGPT,psilocybin,0.61,0.81
+1098,chatGPT,psilocybin,0.67,0.84
+1099,chatGPT,psilocybin,0.67,0.87
+1100,Gemini,psilocybin,0.78,0.82
+1101,Gemini,psilocybin,0.83,0.85
+1102,Gemini,psilocybin,0.75,0.75
+1103,Gemini,psilocybin,0.83,0.87
+1104,Gemini,psilocybin,0.73,0.78
+1105,Gemini,psilocybin,0.76,0.72
+1106,Gemini,psilocybin,0.82,0.76
+1107,Gemini,psilocybin,0.83,0.91
+1108,Gemini,psilocybin,0.79,0.74
+1109,Gemini,psilocybin,0.78,0.88
+1110,Gemini,psilocybin,0.84,0.77
+1111,Gemini,psilocybin,0.7,0.68
+1112,Gemini,psilocybin,0.92,0.76
+1113,Gemini,psilocybin,0.71,0.65
+1114,Gemini,psilocybin,0.8,0.86
+1115,Gemini,psilocybin,0.82,0.83
+1116,Gemini,psilocybin,0.82,0.7
+1117,Gemini,psilocybin,0.89,0.72
+1118,Gemini,psilocybin,0.86,0.68
+1119,Gemini,psilocybin,0.76,0.78
+1120,Gemini,psilocybin,0.82,0.81
+1121,Gemini,psilocybin,0.82,0.73
+1122,Gemini,psilocybin,0.8,0.87
+1123,Gemini,psilocybin,0.74,0.7
+1124,Gemini,psilocybin,0.74,0.77
+1125,Gemini,psilocybin,0.77,0.77
+1126,Gemini,psilocybin,0.85,0.85
+1127,Gemini,psilocybin,0.85,0.78
+1128,Gemini,psilocybin,0.74,0.77
+1129,Gemini,psilocybin,0.82,0.76
+1130,Gemini,psilocybin,0.88,0.76
+1131,Gemini,psilocybin,0.84,0.78
+1132,Gemini,psilocybin,0.79,0.76
+1133,Gemini,psilocybin,0.83,0.64
+1134,Gemini,psilocybin,0.84,0.71
+1135,Gemini,psilocybin,0.86,0.79
+1136,Gemini,psilocybin,0.81,0.74
+1137,Gemini,psilocybin,0.83,0.79
+1138,Gemini,psilocybin,0.77,0.74
+1139,Gemini,psilocybin,0.78,0.85
+1140,Gemini,psilocybin,0.87,0.66
+1141,Gemini,psilocybin,0.73,0.71
+1142,Gemini,psilocybin,0.75,0.82
+1143,Gemini,psilocybin,0.74,0.8
+1144,Gemini,psilocybin,0.83,0.76
+1145,Gemini,psilocybin,0.8,0.83
+1146,Gemini,psilocybin,0.75,0.78
+1147,Gemini,psilocybin,0.85,0.73
+1148,Gemini,psilocybin,0.75,0.83
+1149,Gemini,psilocybin,0.78,0.74
+1150,Gemini,psilocybin,0.73,0.77
+1151,Gemini,psilocybin,0.79,0.79
+1152,Gemini,psilocybin,0.75,0.68
+1153,Gemini,psilocybin,0.78,0.85
+1154,Gemini,psilocybin,0.76,0.75
+1155,Gemini,psilocybin,0.87,0.72
+1156,Gemini,psilocybin,0.76,0.68
+1157,Gemini,psilocybin,0.82,0.79
+1158,Gemini,psilocybin,0.77,0.85
+1159,Gemini,psilocybin,0.79,0.78
+1160,Gemini,psilocybin,0.86,0.76
+1161,Gemini,psilocybin,0.75,0.73
+1162,Gemini,psilocybin,0.79,0.78
+1163,Gemini,psilocybin,0.75,0.65
+1164,Gemini,psilocybin,0.71,0.73
+1165,Gemini,psilocybin,0.75,0.77
+1166,Gemini,psilocybin,0.81,0.8
+1167,Gemini,psilocybin,0.76,0.72
+1168,Gemini,psilocybin,0.83,0.75
+1169,Gemini,psilocybin,0.75,0.72
+1170,Gemini,psilocybin,0.76,0.8
+1171,Gemini,psilocybin,0.79,0.73
+1172,Gemini,psilocybin,0.76,0.86
+1173,Gemini,psilocybin,0.81,0.79
+1174,Gemini,psilocybin,0.77,0.71
+1175,Gemini,psilocybin,0.76,0.84
+1176,Gemini,psilocybin,0.79,0.76
+1177,Gemini,psilocybin,0.78,0.78
+1178,Gemini,psilocybin,0.77,0.85
+1179,Gemini,psilocybin,0.73,0.75
+1180,Gemini,psilocybin,0.77,0.89
+1181,Gemini,psilocybin,0.9,0.75
+1182,Gemini,psilocybin,0.84,0.74
+1183,Gemini,psilocybin,0.83,0.91
+1184,Gemini,psilocybin,0.84,0.71
+1185,Gemini,psilocybin,0.73,0.72
+1186,Gemini,psilocybin,0.7,0.8
+1187,Gemini,psilocybin,0.8,0.74
+1188,Gemini,psilocybin,0.74,0.67
+1189,Gemini,psilocybin,0.78,0.78
+1190,Gemini,psilocybin,0.67,0.86
+1191,Gemini,psilocybin,0.82,0.7
+1192,Gemini,psilocybin,0.8,0.77
+1193,Gemini,psilocybin,0.66,0.82
+1194,Gemini,psilocybin,0.73,0.69
+1195,Gemini,psilocybin,0.9,0.84
+1196,Gemini,psilocybin,0.81,0.8
+1197,Gemini,psilocybin,0.75,0.82
+1198,Gemini,psilocybin,0.81,0.71
+1199,Gemini,psilocybin,0.78,0.83
+1200,Sonnat,psilocybin,0.55,0.81
+1201,Sonnat,psilocybin,0.57,0.77
+1202,Sonnat,psilocybin,0.63,0.85
+1203,Sonnat,psilocybin,0.62,0.79
+1204,Sonnat,psilocybin,0.6,0.82
+1205,Sonnat,psilocybin,0.73,0.81
+1206,Sonnat,psilocybin,0.61,0.79
+1207,Sonnat,psilocybin,0.78,0.81
+1208,Sonnat,psilocybin,0.52,0.79
+1209,Sonnat,psilocybin,0.79,0.8
+1210,Sonnat,psilocybin,0.69,0.78
+1211,Sonnat,psilocybin,0.78,0.82
+1212,Sonnat,psilocybin,0.56,0.83
+1213,Sonnat,psilocybin,0.66,0.82
+1214,Sonnat,psilocybin,0.56,0.84
+1215,Sonnat,psilocybin,0.75,0.82
+1216,Sonnat,psilocybin,0.68,0.8
+1217,Sonnat,psilocybin,0.81,0.81
+1218,Sonnat,psilocybin,0.55,0.8
+1219,Sonnat,psilocybin,0.64,0.82
+1220,Sonnat,psilocybin,0.6,0.77
+1221,Sonnat,psilocybin,0.63,0.8
+1222,Sonnat,psilocybin,0.56,0.82
+1223,Sonnat,psilocybin,0.59,0.79
+1224,Sonnat,psilocybin,0.57,0.83
+1225,Sonnat,psilocybin,0.53,0.84
+1226,Sonnat,psilocybin,0.75,0.83
+1227,Sonnat,psilocybin,0.53,0.88
+1228,Sonnat,psilocybin,0.69,0.8
+1229,Sonnat,psilocybin,0.64,0.78
+1230,Sonnat,psilocybin,0.54,0.79
+1231,Sonnat,psilocybin,0.66,0.78
+1232,Sonnat,psilocybin,0.65,0.79
+1233,Sonnat,psilocybin,0.6,0.86
+1234,Sonnat,psilocybin,0.56,0.8
+1235,Sonnat,psilocybin,0.64,0.78
+1236,Sonnat,psilocybin,0.53,0.8
+1237,Sonnat,psilocybin,0.65,0.79
+1238,Sonnat,psilocybin,0.71,0.91
+1239,Sonnat,psilocybin,0.69,0.81
+1240,Sonnat,psilocybin,0.52,0.79
+1241,Sonnat,psilocybin,0.69,0.84
+1242,Sonnat,psilocybin,0.65,0.82
+1243,Sonnat,psilocybin,0.62,0.8
+1244,Sonnat,psilocybin,0.61,0.87
+1245,Sonnat,psilocybin,0.63,0.86
+1246,Sonnat,psilocybin,0.55,0.83
+1247,Sonnat,psilocybin,0.56,0.82
+1248,Sonnat,psilocybin,0.78,0.73
+1249,Sonnat,psilocybin,0.81,0.85
+1250,Sonnat,psilocybin,0.6,0.82
+1251,Sonnat,psilocybin,0.63,0.76
+1252,Sonnat,psilocybin,0.53,0.76
+1253,Sonnat,psilocybin,0.47,0.8
+1254,Sonnat,psilocybin,0.56,0.83
+1255,Sonnat,psilocybin,0.66,0.76
+1256,Sonnat,psilocybin,0.58,0.82
+1257,Sonnat,psilocybin,0.56,0.77
+1258,Sonnat,psilocybin,0.59,0.85
+1259,Sonnat,psilocybin,0.62,0.82
+1260,Sonnat,psilocybin,0.61,0.83
+1261,Sonnat,psilocybin,0.66,0.82
+1262,Sonnat,psilocybin,0.74,0.83
+1263,Sonnat,psilocybin,0.64,0.82
+1264,Sonnat,psilocybin,0.6,0.8
+1265,Sonnat,psilocybin,0.57,0.82
+1266,Sonnat,psilocybin,0.59,0.82
+1267,Sonnat,psilocybin,0.57,0.81
+1268,Sonnat,psilocybin,0.56,0.85
+1269,Sonnat,psilocybin,0.56,0.79
+1270,Sonnat,psilocybin,0.72,0.82
+1271,Sonnat,psilocybin,0.75,0.8
+1272,Sonnat,psilocybin,0.61,0.82
+1273,Sonnat,psilocybin,0.68,0.85
+1274,Sonnat,psilocybin,0.52,0.86
+1275,Sonnat,psilocybin,0.63,0.83
+1276,Sonnat,psilocybin,0.73,0.79
+1277,Sonnat,psilocybin,0.7,0.78
+1278,Sonnat,psilocybin,0.66,0.8
+1279,Sonnat,psilocybin,0.79,0.77
+1280,Sonnat,psilocybin,0.69,0.84
+1281,Sonnat,psilocybin,0.58,0.77
+1282,Sonnat,psilocybin,0.64,0.79
+1283,Sonnat,psilocybin,0.67,0.8
+1284,Sonnat,psilocybin,0.51,0.8
+1285,Sonnat,psilocybin,0.62,0.84
+1286,Sonnat,psilocybin,0.55,0.8
+1287,Sonnat,psilocybin,0.54,0.83
+1288,Sonnat,psilocybin,0.54,0.77
+1289,Sonnat,psilocybin,0.57,0.8
+1290,Sonnat,psilocybin,0.65,0.81
+1291,Sonnat,psilocybin,0.75,0.82
+1292,Sonnat,psilocybin,0.81,0.82
+1293,Sonnat,psilocybin,0.65,0.86
+1294,Sonnat,psilocybin,0.64,0.78
+1295,Sonnat,psilocybin,0.68,0.75
+1296,Sonnat,psilocybin,0.72,0.83
+1297,Sonnat,psilocybin,0.57,0.79
+1298,Sonnat,psilocybin,0.57,0.84
+1299,Sonnat,psilocybin,0.5,0.75
+1300,Llama ,psilocybin,0.77,0.75
+1301,Llama ,psilocybin,0.75,0.68
+1302,Llama ,psilocybin,0.78,0.7
+1303,Llama ,psilocybin,0.74,0.68
+1304,Llama ,psilocybin,0.76,0.71
+1305,Llama ,psilocybin,0.79,0.65
+1306,Llama ,psilocybin,0.78,0.7
+1307,Llama ,psilocybin,0.75,0.65
+1308,Llama ,psilocybin,0.77,0.67
+1309,Llama ,psilocybin,0.73,0.68
+1310,Llama ,psilocybin,0.78,0.66
+1311,Llama ,psilocybin,0.77,0.69
+1312,Llama ,psilocybin,0.75,0.67
+1313,Llama ,psilocybin,0.75,0.67
+1314,Llama ,psilocybin,0.77,0.69
+1315,Llama ,psilocybin,0.76,0.66
+1316,Llama ,psilocybin,0.72,0.69
+1317,Llama ,psilocybin,0.75,0.72
+1318,Llama ,psilocybin,0.74,0.71
+1319,Llama ,psilocybin,0.77,0.68
+1320,Llama ,psilocybin,0.79,0.66
+1321,Llama ,psilocybin,0.76,0.69
+1322,Llama ,psilocybin,0.74,0.69
+1323,Llama ,psilocybin,0.77,0.68
+1324,Llama ,psilocybin,0.8,0.69
+1325,Llama ,psilocybin,0.77,0.69
+1326,Llama ,psilocybin,0.78,0.69
+1327,Llama ,psilocybin,0.79,0.67
+1328,Llama ,psilocybin,0.75,0.66
+1329,Llama ,psilocybin,0.79,0.69
+1330,Llama ,psilocybin,0.79,0.68
+1331,Llama ,psilocybin,0.79,0.69
+1332,Llama ,psilocybin,0.76,0.66
+1333,Llama ,psilocybin,0.77,0.68
+1334,Llama ,psilocybin,0.76,0.68
+1335,Llama ,psilocybin,0.77,0.65
+1336,Llama ,psilocybin,0.78,0.68
+1337,Llama ,psilocybin,0.79,0.68
+1338,Llama ,psilocybin,0.76,0.67
+1339,Llama ,psilocybin,0.75,0.64
+1340,Llama ,psilocybin,0.74,0.67
+1341,Llama ,psilocybin,0.77,0.68
+1342,Llama ,psilocybin,0.81,0.69
+1343,Llama ,psilocybin,0.74,0.66
+1344,Llama ,psilocybin,0.77,0.69
+1345,Llama ,psilocybin,0.79,0.67
+1346,Llama ,psilocybin,0.77,0.69
+1347,Llama ,psilocybin,0.76,0.68
+1348,Llama ,psilocybin,0.79,0.66
+1349,Llama ,psilocybin,0.79,0.68
+1350,Llama ,psilocybin,0.78,0.64
+1351,Llama ,psilocybin,0.8,0.68
+1352,Llama ,psilocybin,0.79,0.68
+1353,Llama ,psilocybin,0.8,0.69
+1354,Llama ,psilocybin,0.78,0.69
+1355,Llama ,psilocybin,0.73,0.69
+1356,Llama ,psilocybin,0.78,0.67
+1357,Llama ,psilocybin,0.77,0.68
+1358,Llama ,psilocybin,0.76,0.67
+1359,Llama ,psilocybin,0.81,0.65
+1360,Llama ,psilocybin,0.79,0.71
+1361,Llama ,psilocybin,0.75,0.67
+1362,Llama ,psilocybin,0.77,0.66
+1363,Llama ,psilocybin,0.76,0.67
+1364,Llama ,psilocybin,0.75,0.67
+1365,Llama ,psilocybin,0.72,0.67
+1366,Llama ,psilocybin,0.76,0.68
+1367,Llama ,psilocybin,0.76,0.68
+1368,Llama ,psilocybin,0.74,0.67
+1369,Llama ,psilocybin,0.78,0.68
+1370,Llama ,psilocybin,0.81,0.71
+1371,Llama ,psilocybin,0.77,0.67
+1372,Llama ,psilocybin,0.77,0.64
+1373,Llama ,psilocybin,0.8,0.65
+1374,Llama ,psilocybin,0.8,0.67
+1375,Llama ,psilocybin,0.76,0.7
+1376,Llama ,psilocybin,0.78,0.68
+1377,Llama ,psilocybin,0.79,0.67
+1378,Llama ,psilocybin,0.79,0.68
+1379,Llama ,psilocybin,0.78,0.72
+1380,Llama ,psilocybin,0.76,0.68
+1381,Llama ,psilocybin,0.79,0.68
+1382,Llama ,psilocybin,0.77,0.73
+1383,Llama ,psilocybin,0.79,0.69
+1384,Llama ,psilocybin,0.75,0.65
+1385,Llama ,psilocybin,0.76,0.67
+1386,Llama ,psilocybin,0.8,0.7
+1387,Llama ,psilocybin,0.76,0.64
+1388,Llama ,psilocybin,0.74,0.68
+1389,Llama ,psilocybin,0.75,0.68
+1390,Llama ,psilocybin,0.76,0.67
+1391,Llama ,psilocybin,0.77,0.69
+1392,Llama ,psilocybin,0.79,0.73
+1393,Llama ,psilocybin,0.77,0.68
+1394,Llama ,psilocybin,0.77,0.67
+1395,Llama ,psilocybin,0.76,0.68
+1396,Llama ,psilocybin,0.8,0.73
+1397,Llama ,psilocybin,0.79,0.71
+1398,Llama ,psilocybin,0.76,0.7
+1399,Llama ,psilocybin,0.75,0.65
+1400,Falcon,psilocybin,0.35,0.59
+1401,Falcon,psilocybin,0.34,0.54
+1402,Falcon,psilocybin,0.33,0.65
+1403,Falcon,psilocybin,0.57,0.6
+1404,Falcon,psilocybin,0.39,0.55
+1405,Falcon,psilocybin,0.47,0.61
+1406,Falcon,psilocybin,0.27,0.61
+1407,Falcon,psilocybin,0.52,0.63
+1408,Falcon,psilocybin,0.55,0.6
+1409,Falcon,psilocybin,0.35,0.66
+1410,Falcon,psilocybin,0.25,0.6
+1411,Falcon,psilocybin,0.43,0.61
+1412,Falcon,psilocybin,0.37,0.62
+1413,Falcon,psilocybin,0.49,0.57
+1414,Falcon,psilocybin,0.29,0.61
+1415,Falcon,psilocybin,0.42,0.59
+1416,Falcon,psilocybin,0.39,0.58
+1417,Falcon,psilocybin,0.31,0.61
+1418,Falcon,psilocybin,0.46,0.66
+1419,Falcon,psilocybin,0.39,0.67
+1420,Falcon,psilocybin,0.36,0.67
+1421,Falcon,psilocybin,0.47,0.56
+1422,Falcon,psilocybin,0.48,0.59
+1423,Falcon,psilocybin,0.44,0.62
+1424,Falcon,psilocybin,0.25,0.64
+1425,Falcon,psilocybin,0.48,0.68
+1426,Falcon,psilocybin,0.56,0.59
+1427,Falcon,psilocybin,0.17,0.6
+1428,Falcon,psilocybin,0.45,0.66
+1429,Falcon,psilocybin,0.28,0.66
+1430,Falcon,psilocybin,0.36,0.7
+1431,Falcon,psilocybin,0.26,0.67
+1432,Falcon,psilocybin,0.34,0.61
+1433,Falcon,psilocybin,0.41,0.59
+1434,Falcon,psilocybin,0.4,0.63
+1435,Falcon,psilocybin,0.5,0.61
+1436,Falcon,psilocybin,0.5,0.62
+1437,Falcon,psilocybin,0.23,0.64
+1438,Falcon,psilocybin,0.32,0.64
+1439,Falcon,psilocybin,0.46,0.58
+1440,Falcon,psilocybin,0.29,0.61
+1441,Falcon,psilocybin,0.3,0.59
+1442,Falcon,psilocybin,0.49,0.55
+1443,Falcon,psilocybin,0.38,0.64
+1444,Falcon,psilocybin,0.48,0.61
+1445,Falcon,psilocybin,0.51,0.61
+1446,Falcon,psilocybin,0.39,0.65
+1447,Falcon,psilocybin,0.45,0.67
+1448,Falcon,psilocybin,0.4,0.75
+1449,Falcon,psilocybin,0.41,0.69
+1450,Falcon,psilocybin,0.31,0.6
+1451,Falcon,psilocybin,0.43,0.64
+1452,Falcon,psilocybin,0.39,0.67
+1453,Falcon,psilocybin,0.42,0.53
+1454,Falcon,psilocybin,0.39,0.62
+1455,Falcon,psilocybin,0.32,0.63
+1456,Falcon,psilocybin,0.3,0.56
+1457,Falcon,psilocybin,0.36,0.6
+1458,Falcon,psilocybin,0.38,0.63
+1459,Falcon,psilocybin,0.3,0.57
+1460,Falcon,psilocybin,0.31,0.64
+1461,Falcon,psilocybin,0.51,0.66
+1462,Falcon,psilocybin,0.38,0.66
+1463,Falcon,psilocybin,0.46,0.64
+1464,Falcon,psilocybin,0.3,0.59
+1465,Falcon,psilocybin,0.31,0.6
+1466,Falcon,psilocybin,0.37,0.63
+1467,Falcon,psilocybin,0.31,0.63
+1468,Falcon,psilocybin,0.46,0.67
+1469,Falcon,psilocybin,0.36,0.64
+1470,Falcon,psilocybin,0.28,0.65
+1471,Falcon,psilocybin,0.48,0.61
+1472,Falcon,psilocybin,0.5,0.55
+1473,Falcon,psilocybin,0.35,0.63
+1474,Falcon,psilocybin,0.25,0.55
+1475,Falcon,psilocybin,0.43,0.59
+1476,Falcon,psilocybin,0.34,0.58
+1477,Falcon,psilocybin,0.52,0.64
+1478,Falcon,psilocybin,0.34,0.66
+1479,Falcon,psilocybin,0.41,0.59
+1480,Falcon,psilocybin,0.2,0.67
+1481,Falcon,psilocybin,0.46,0.6
+1482,Falcon,psilocybin,0.22,0.55
+1483,Falcon,psilocybin,0.36,0.6
+1484,Falcon,psilocybin,0.3,0.66
+1485,Falcon,psilocybin,0.3,0.61
+1486,Falcon,psilocybin,0.42,0.59
+1487,Falcon,psilocybin,0.26,0.51
+1488,Falcon,psilocybin,0.21,0.66
+1489,Falcon,psilocybin,0.6,0.69
+1490,Falcon,psilocybin,0.48,0.64
+1491,Falcon,psilocybin,0.36,0.6
+1492,Falcon,psilocybin,0.34,0.66
+1493,Falcon,psilocybin,0.36,0.65
+1494,Falcon,psilocybin,0.33,0.61
+1495,Falcon,psilocybin,0.47,0.65
+1496,Falcon,psilocybin,0.36,0.67
+1497,Falcon,psilocybin,0.38,0.64
+1498,Falcon,psilocybin,0.34,0.61
+1499,Falcon,psilocybin,0.26,0.62
+1500,chatGPT,DMT,0.64,0.82
+1501,chatGPT,DMT,0.61,0.82
+1502,chatGPT,DMT,0.63,0.84
+1503,chatGPT,DMT,0.56,0.86
+1504,chatGPT,DMT,0.67,0.86
+1505,chatGPT,DMT,0.64,0.89
+1506,chatGPT,DMT,0.56,0.86
+1507,chatGPT,DMT,0.66,0.85
+1508,chatGPT,DMT,0.63,0.86
+1509,chatGPT,DMT,0.58,0.79
+1510,chatGPT,DMT,0.62,0.75
+1511,chatGPT,DMT,0.68,0.74
+1512,chatGPT,DMT,0.63,0.8
+1513,chatGPT,DMT,0.6,0.79
+1514,chatGPT,DMT,0.63,0.82
+1515,chatGPT,DMT,0.65,0.79
+1516,chatGPT,DMT,0.64,0.78
+1517,chatGPT,DMT,0.61,0.73
+1518,chatGPT,DMT,0.58,0.81
+1519,chatGPT,DMT,0.68,0.79
+1520,chatGPT,DMT,0.61,0.87
+1521,chatGPT,DMT,0.61,0.9
+1522,chatGPT,DMT,0.64,0.88
+1523,chatGPT,DMT,0.64,0.83
+1524,chatGPT,DMT,0.59,0.81
+1525,chatGPT,DMT,0.62,0.83
+1526,chatGPT,DMT,0.65,0.8
+1527,chatGPT,DMT,0.59,0.75
+1528,chatGPT,DMT,0.65,0.88
+1529,chatGPT,DMT,0.64,0.86
+1530,chatGPT,DMT,0.66,0.91
+1531,chatGPT,DMT,0.65,0.79
+1532,chatGPT,DMT,0.58,0.75
+1533,chatGPT,DMT,0.63,0.81
+1534,chatGPT,DMT,0.65,0.82
+1535,chatGPT,DMT,0.61,0.85
+1536,chatGPT,DMT,0.65,0.77
+1537,chatGPT,DMT,0.64,0.86
+1538,chatGPT,DMT,0.66,0.85
+1539,chatGPT,DMT,0.54,0.84
+1540,chatGPT,DMT,0.65,0.87
+1541,chatGPT,DMT,0.67,0.81
+1542,chatGPT,DMT,0.64,0.8
+1543,chatGPT,DMT,0.62,0.73
+1544,chatGPT,DMT,0.57,0.87
+1545,chatGPT,DMT,0.66,0.8
+1546,chatGPT,DMT,0.62,0.78
+1547,chatGPT,DMT,0.61,0.79
+1548,chatGPT,DMT,0.63,0.81
+1549,chatGPT,DMT,0.66,0.85
+1550,chatGPT,DMT,0.67,0.77
+1551,chatGPT,DMT,0.61,0.75
+1552,chatGPT,DMT,0.64,0.81
+1553,chatGPT,DMT,0.59,0.87
+1554,chatGPT,DMT,0.69,0.83
+1555,chatGPT,DMT,0.63,0.8
+1556,chatGPT,DMT,0.61,0.77
+1557,chatGPT,DMT,0.61,0.83
+1558,chatGPT,DMT,0.66,0.85
+1559,chatGPT,DMT,0.67,0.83
+1560,chatGPT,DMT,0.65,0.88
+1561,chatGPT,DMT,0.68,0.85
+1562,chatGPT,DMT,0.67,0.82
+1563,chatGPT,DMT,0.63,0.87
+1564,chatGPT,DMT,0.61,0.78
+1565,chatGPT,DMT,0.65,0.77
+1566,chatGPT,DMT,0.59,0.84
+1567,chatGPT,DMT,0.61,0.83
+1568,chatGPT,DMT,0.6,0.84
+1569,chatGPT,DMT,0.64,0.81
+1570,chatGPT,DMT,0.66,0.8
+1571,chatGPT,DMT,0.62,0.78
+1572,chatGPT,DMT,0.63,0.81
+1573,chatGPT,DMT,0.64,0.83
+1574,chatGPT,DMT,0.65,0.83
+1575,chatGPT,DMT,0.62,0.89
+1576,chatGPT,DMT,0.67,0.81
+1577,chatGPT,DMT,0.63,0.83
+1578,chatGPT,DMT,0.63,0.82
+1579,chatGPT,DMT,0.67,0.8
+1580,chatGPT,DMT,0.61,0.75
+1581,chatGPT,DMT,0.68,0.82
+1582,chatGPT,DMT,0.62,0.83
+1583,chatGPT,DMT,0.62,0.82
+1584,chatGPT,DMT,0.66,0.76
+1585,chatGPT,DMT,0.64,0.83
+1586,chatGPT,DMT,0.6,0.83
+1587,chatGPT,DMT,0.66,0.77
+1588,chatGPT,DMT,0.65,0.87
+1589,chatGPT,DMT,0.64,0.81
+1590,chatGPT,DMT,0.6,0.84
+1591,chatGPT,DMT,0.61,0.84
+1592,chatGPT,DMT,0.63,0.77
+1593,chatGPT,DMT,0.61,0.86
+1594,chatGPT,DMT,0.58,0.83
+1595,chatGPT,DMT,0.59,0.85
+1596,chatGPT,DMT,0.65,0.82
+1597,chatGPT,DMT,0.64,0.75
+1598,chatGPT,DMT,0.62,0.87
+1599,chatGPT,DMT,0.64,0.84
+1600,Gemini,DMT,0.86,0.66
+1601,Gemini,DMT,0.83,0.78
+1602,Gemini,DMT,0.77,0.92
+1603,Gemini,DMT,0.84,0.75
+1604,Gemini,DMT,0.77,0.76
+1605,Gemini,DMT,0.84,0.82
+1606,Gemini,DMT,0.7,0.88
+1607,Gemini,DMT,0.81,0.83
+1608,Gemini,DMT,0.79,0.87
+1609,Gemini,DMT,0.77,0.82
+1610,Gemini,DMT,0.79,0.76
+1611,Gemini,DMT,0.78,0.75
+1612,Gemini,DMT,0.79,0.82
+1613,Gemini,DMT,0.78,0.75
+1614,Gemini,DMT,0.84,0.84
+1615,Gemini,DMT,0.89,0.68
+1616,Gemini,DMT,0.74,0.74
+1617,Gemini,DMT,0.78,0.72
+1618,Gemini,DMT,0.8,0.74
+1619,Gemini,DMT,0.82,0.78
+1620,Gemini,DMT,0.76,0.74
+1621,Gemini,DMT,0.83,0.74
+1622,Gemini,DMT,0.8,0.8
+1623,Gemini,DMT,0.8,0.72
+1624,Gemini,DMT,0.67,0.82
+1625,Gemini,DMT,0.87,0.79
+1626,Gemini,DMT,0.83,0.78
+1627,Gemini,DMT,0.76,0.79
+1628,Gemini,DMT,0.77,0.75
+1629,Gemini,DMT,0.8,0.76
+1630,Gemini,DMT,0.76,0.77
+1631,Gemini,DMT,0.91,0.8
+1632,Gemini,DMT,0.82,0.65
+1633,Gemini,DMT,0.8,0.71
+1634,Gemini,DMT,0.8,0.82
+1635,Gemini,DMT,0.82,0.64
+1636,Gemini,DMT,0.7,0.74
+1637,Gemini,DMT,0.84,0.79
+1638,Gemini,DMT,0.75,0.69
+1639,Gemini,DMT,0.75,0.78
+1640,Gemini,DMT,0.77,0.71
+1641,Gemini,DMT,0.8,0.76
+1642,Gemini,DMT,0.73,0.73
+1643,Gemini,DMT,0.7,0.76
+1644,Gemini,DMT,0.77,0.82
+1645,Gemini,DMT,0.85,0.86
+1646,Gemini,DMT,0.69,0.8
+1647,Gemini,DMT,0.78,0.88
+1648,Gemini,DMT,0.8,0.81
+1649,Gemini,DMT,0.81,0.69
+1650,Gemini,DMT,0.69,0.79
+1651,Gemini,DMT,0.79,0.77
+1652,Gemini,DMT,0.84,0.81
+1653,Gemini,DMT,0.85,0.83
+1654,Gemini,DMT,0.81,0.81
+1655,Gemini,DMT,0.8,0.74
+1656,Gemini,DMT,0.79,0.78
+1657,Gemini,DMT,0.81,0.76
+1658,Gemini,DMT,0.71,0.77
+1659,Gemini,DMT,0.9,0.79
+1660,Gemini,DMT,0.75,0.73
+1661,Gemini,DMT,0.81,0.8
+1662,Gemini,DMT,0.78,0.73
+1663,Gemini,DMT,0.78,0.75
+1664,Gemini,DMT,0.73,0.65
+1665,Gemini,DMT,0.74,0.93
+1666,Gemini,DMT,0.79,0.83
+1667,Gemini,DMT,0.84,0.7
+1668,Gemini,DMT,0.89,0.72
+1669,Gemini,DMT,0.88,0.77
+1670,Gemini,DMT,0.83,0.68
+1671,Gemini,DMT,0.72,0.73
+1672,Gemini,DMT,0.79,0.72
+1673,Gemini,DMT,0.79,0.83
+1674,Gemini,DMT,0.7,0.76
+1675,Gemini,DMT,0.8,0.84
+1676,Gemini,DMT,0.85,0.83
+1677,Gemini,DMT,0.81,0.77
+1678,Gemini,DMT,0.8,0.7
+1679,Gemini,DMT,0.75,0.77
+1680,Gemini,DMT,0.79,0.79
+1681,Gemini,DMT,0.69,0.84
+1682,Gemini,DMT,0.83,0.79
+1683,Gemini,DMT,0.79,0.73
+1684,Gemini,DMT,0.86,0.73
+1685,Gemini,DMT,0.71,0.79
+1686,Gemini,DMT,0.83,0.87
+1687,Gemini,DMT,0.74,0.75
+1688,Gemini,DMT,0.8,0.8
+1689,Gemini,DMT,0.81,0.82
+1690,Gemini,DMT,0.75,0.68
+1691,Gemini,DMT,0.78,0.78
+1692,Gemini,DMT,0.8,0.64
+1693,Gemini,DMT,0.78,0.75
+1694,Gemini,DMT,0.77,0.81
+1695,Gemini,DMT,0.81,0.88
+1696,Gemini,DMT,0.82,0.67
+1697,Gemini,DMT,0.69,0.66
+1698,Gemini,DMT,0.79,0.82
+1699,Gemini,DMT,0.78,0.75
+1700,Sonnat,DMT,0.67,0.8
+1701,Sonnat,DMT,0.74,0.78
+1702,Sonnat,DMT,0.72,0.83
+1703,Sonnat,DMT,0.58,0.81
+1704,Sonnat,DMT,0.68,0.8
+1705,Sonnat,DMT,0.75,0.86
+1706,Sonnat,DMT,0.54,0.82
+1707,Sonnat,DMT,0.66,0.78
+1708,Sonnat,DMT,0.78,0.77
+1709,Sonnat,DMT,0.67,0.79
+1710,Sonnat,DMT,0.57,0.87
+1711,Sonnat,DMT,0.55,0.82
+1712,Sonnat,DMT,0.64,0.84
+1713,Sonnat,DMT,0.6,0.8
+1714,Sonnat,DMT,0.63,0.8
+1715,Sonnat,DMT,0.67,0.76
+1716,Sonnat,DMT,0.71,0.79
+1717,Sonnat,DMT,0.66,0.8
+1718,Sonnat,DMT,0.67,0.8
+1719,Sonnat,DMT,0.64,0.83
+1720,Sonnat,DMT,0.73,0.78
+1721,Sonnat,DMT,0.63,0.8
+1722,Sonnat,DMT,0.62,0.77
+1723,Sonnat,DMT,0.76,0.8
+1724,Sonnat,DMT,0.63,0.8
+1725,Sonnat,DMT,0.47,0.82
+1726,Sonnat,DMT,0.72,0.79
+1727,Sonnat,DMT,0.46,0.81
+1728,Sonnat,DMT,0.52,0.79
+1729,Sonnat,DMT,0.46,0.88
+1730,Sonnat,DMT,0.55,0.85
+1731,Sonnat,DMT,0.63,0.85
+1732,Sonnat,DMT,0.68,0.8
+1733,Sonnat,DMT,0.52,0.8
+1734,Sonnat,DMT,0.5,0.79
+1735,Sonnat,DMT,0.65,0.84
+1736,Sonnat,DMT,0.78,0.77
+1737,Sonnat,DMT,0.59,0.78
+1738,Sonnat,DMT,0.61,0.85
+1739,Sonnat,DMT,0.72,0.77
+1740,Sonnat,DMT,0.73,0.79
+1741,Sonnat,DMT,0.51,0.9
+1742,Sonnat,DMT,0.68,0.8
+1743,Sonnat,DMT,0.69,0.81
+1744,Sonnat,DMT,0.48,0.8
+1745,Sonnat,DMT,0.61,0.83
+1746,Sonnat,DMT,0.7,0.8
+1747,Sonnat,DMT,0.62,0.79
+1748,Sonnat,DMT,0.55,0.79
+1749,Sonnat,DMT,0.6,0.78
+1750,Sonnat,DMT,0.59,0.86
+1751,Sonnat,DMT,0.85,0.85
+1752,Sonnat,DMT,0.55,0.82
+1753,Sonnat,DMT,0.64,0.79
+1754,Sonnat,DMT,0.62,0.83
+1755,Sonnat,DMT,0.63,0.81
+1756,Sonnat,DMT,0.63,0.78
+1757,Sonnat,DMT,0.49,0.81
+1758,Sonnat,DMT,0.7,0.85
+1759,Sonnat,DMT,0.64,0.81
+1760,Sonnat,DMT,0.65,0.82
+1761,Sonnat,DMT,0.78,0.86
+1762,Sonnat,DMT,0.48,0.83
+1763,Sonnat,DMT,0.65,0.79
+1764,Sonnat,DMT,0.54,0.81
+1765,Sonnat,DMT,0.66,0.81
+1766,Sonnat,DMT,0.75,0.82
+1767,Sonnat,DMT,0.7,0.83
+1768,Sonnat,DMT,0.61,0.77
+1769,Sonnat,DMT,0.65,0.83
+1770,Sonnat,DMT,0.55,0.81
+1771,Sonnat,DMT,0.67,0.78
+1772,Sonnat,DMT,0.68,0.81
+1773,Sonnat,DMT,0.61,0.81
+1774,Sonnat,DMT,0.52,0.82
+1775,Sonnat,DMT,0.8,0.81
+1776,Sonnat,DMT,0.62,0.79
+1777,Sonnat,DMT,0.5,0.79
+1778,Sonnat,DMT,0.54,0.78
+1779,Sonnat,DMT,0.56,0.8
+1780,Sonnat,DMT,0.67,0.79
+1781,Sonnat,DMT,0.69,0.78
+1782,Sonnat,DMT,0.59,0.73
+1783,Sonnat,DMT,0.62,0.81
+1784,Sonnat,DMT,0.58,0.78
+1785,Sonnat,DMT,0.72,0.85
+1786,Sonnat,DMT,0.55,0.86
+1787,Sonnat,DMT,0.58,0.78
+1788,Sonnat,DMT,0.63,0.84
+1789,Sonnat,DMT,0.67,0.81
+1790,Sonnat,DMT,0.59,0.74
+1791,Sonnat,DMT,0.63,0.84
+1792,Sonnat,DMT,0.58,0.81
+1793,Sonnat,DMT,0.58,0.78
+1794,Sonnat,DMT,0.71,0.82
+1795,Sonnat,DMT,0.63,0.87
+1796,Sonnat,DMT,0.64,0.8
+1797,Sonnat,DMT,0.67,0.86
+1798,Sonnat,DMT,0.63,0.83
+1799,Sonnat,DMT,0.64,0.84
+1800,Llama ,DMT,0.8,0.68
+1801,Llama ,DMT,0.77,0.67
+1802,Llama ,DMT,0.79,0.69
+1803,Llama ,DMT,0.76,0.66
+1804,Llama ,DMT,0.75,0.67
+1805,Llama ,DMT,0.79,0.68
+1806,Llama ,DMT,0.74,0.69
+1807,Llama ,DMT,0.8,0.69
+1808,Llama ,DMT,0.78,0.69
+1809,Llama ,DMT,0.77,0.66
+1810,Llama ,DMT,0.79,0.68
+1811,Llama ,DMT,0.78,0.68
+1812,Llama ,DMT,0.73,0.69
+1813,Llama ,DMT,0.78,0.7
+1814,Llama ,DMT,0.79,0.69
+1815,Llama ,DMT,0.75,0.67
+1816,Llama ,DMT,0.73,0.66
+1817,Llama ,DMT,0.76,0.69
+1818,Llama ,DMT,0.75,0.67
+1819,Llama ,DMT,0.76,0.66
+1820,Llama ,DMT,0.76,0.69
+1821,Llama ,DMT,0.77,0.7
+1822,Llama ,DMT,0.75,0.66
+1823,Llama ,DMT,0.74,0.68
+1824,Llama ,DMT,0.76,0.71
+1825,Llama ,DMT,0.75,0.7
+1826,Llama ,DMT,0.77,0.7
+1827,Llama ,DMT,0.78,0.74
+1828,Llama ,DMT,0.8,0.68
+1829,Llama ,DMT,0.79,0.71
+1830,Llama ,DMT,0.79,0.67
+1831,Llama ,DMT,0.77,0.71
+1832,Llama ,DMT,0.75,0.68
+1833,Llama ,DMT,0.77,0.69
+1834,Llama ,DMT,0.78,0.68
+1835,Llama ,DMT,0.75,0.68
+1836,Llama ,DMT,0.78,0.67
+1837,Llama ,DMT,0.77,0.7
+1838,Llama ,DMT,0.77,0.69
+1839,Llama ,DMT,0.77,0.66
+1840,Llama ,DMT,0.77,0.69
+1841,Llama ,DMT,0.76,0.67
+1842,Llama ,DMT,0.8,0.64
+1843,Llama ,DMT,0.78,0.66
+1844,Llama ,DMT,0.77,0.64
+1845,Llama ,DMT,0.78,0.67
+1846,Llama ,DMT,0.79,0.7
+1847,Llama ,DMT,0.78,0.65
+1848,Llama ,DMT,0.77,0.7
+1849,Llama ,DMT,0.78,0.66
+1850,Llama ,DMT,0.82,0.67
+1851,Llama ,DMT,0.75,0.67
+1852,Llama ,DMT,0.79,0.7
+1853,Llama ,DMT,0.75,0.67
+1854,Llama ,DMT,0.73,0.71
+1855,Llama ,DMT,0.78,0.7
+1856,Llama ,DMT,0.76,0.64
+1857,Llama ,DMT,0.76,0.68
+1858,Llama ,DMT,0.78,0.69
+1859,Llama ,DMT,0.76,0.67
+1860,Llama ,DMT,0.73,0.7
+1861,Llama ,DMT,0.75,0.72
+1862,Llama ,DMT,0.79,0.67
+1863,Llama ,DMT,0.74,0.67
+1864,Llama ,DMT,0.75,0.69
+1865,Llama ,DMT,0.79,0.69
+1866,Llama ,DMT,0.78,0.66
+1867,Llama ,DMT,0.73,0.67
+1868,Llama ,DMT,0.75,0.66
+1869,Llama ,DMT,0.77,0.61
+1870,Llama ,DMT,0.74,0.7
+1871,Llama ,DMT,0.78,0.67
+1872,Llama ,DMT,0.79,0.67
+1873,Llama ,DMT,0.77,0.7
+1874,Llama ,DMT,0.75,0.7
+1875,Llama ,DMT,0.76,0.68
+1876,Llama ,DMT,0.77,0.66
+1877,Llama ,DMT,0.73,0.69
+1878,Llama ,DMT,0.78,0.7
+1879,Llama ,DMT,0.8,0.67
+1880,Llama ,DMT,0.79,0.68
+1881,Llama ,DMT,0.79,0.67
+1882,Llama ,DMT,0.79,0.69
+1883,Llama ,DMT,0.77,0.66
+1884,Llama ,DMT,0.78,0.65
+1885,Llama ,DMT,0.81,0.72
+1886,Llama ,DMT,0.81,0.7
+1887,Llama ,DMT,0.75,0.68
+1888,Llama ,DMT,0.81,0.68
+1889,Llama ,DMT,0.78,0.66
+1890,Llama ,DMT,0.76,0.7
+1891,Llama ,DMT,0.8,0.64
+1892,Llama ,DMT,0.75,0.68
+1893,Llama ,DMT,0.78,0.66
+1894,Llama ,DMT,0.78,0.67
+1895,Llama ,DMT,0.77,0.65
+1896,Llama ,DMT,0.77,0.69
+1897,Llama ,DMT,0.77,0.66
+1898,Llama ,DMT,0.74,0.69
+1899,Llama ,DMT,0.76,0.71
+1900,Falcon,DMT,0.25,0.59
+1901,Falcon,DMT,0.36,0.57
+1902,Falcon,DMT,0.44,0.57
+1903,Falcon,DMT,0.53,0.7
+1904,Falcon,DMT,0.41,0.69
+1905,Falcon,DMT,0.31,0.63
+1906,Falcon,DMT,0.35,0.61
+1907,Falcon,DMT,0.51,0.68
+1908,Falcon,DMT,0.34,0.56
+1909,Falcon,DMT,0.57,0.62
+1910,Falcon,DMT,0.34,0.57
+1911,Falcon,DMT,0.31,0.61
+1912,Falcon,DMT,0.44,0.58
+1913,Falcon,DMT,0.5,0.71
+1914,Falcon,DMT,0.37,0.57
+1915,Falcon,DMT,0.45,0.58
+1916,Falcon,DMT,0.16,0.59
+1917,Falcon,DMT,0.49,0.6
+1918,Falcon,DMT,0.31,0.58
+1919,Falcon,DMT,0.24,0.65
+1920,Falcon,DMT,0.29,0.6
+1921,Falcon,DMT,0.35,0.58
+1922,Falcon,DMT,0.57,0.67
+1923,Falcon,DMT,0.43,0.69
+1924,Falcon,DMT,0.26,0.61
+1925,Falcon,DMT,0.33,0.58
+1926,Falcon,DMT,0.53,0.63
+1927,Falcon,DMT,0.36,0.62
+1928,Falcon,DMT,0.24,0.65
+1929,Falcon,DMT,0.35,0.61
+1930,Falcon,DMT,0.42,0.59
+1931,Falcon,DMT,0.41,0.66
+1932,Falcon,DMT,0.33,0.61
+1933,Falcon,DMT,0.26,0.67
+1934,Falcon,DMT,0.41,0.67
+1935,Falcon,DMT,0.23,0.66
+1936,Falcon,DMT,0.39,0.59
+1937,Falcon,DMT,0.39,0.69
+1938,Falcon,DMT,0.39,0.57
+1939,Falcon,DMT,0.51,0.61
+1940,Falcon,DMT,0.42,0.59
+1941,Falcon,DMT,0.43,0.57
+1942,Falcon,DMT,0.3,0.71
+1943,Falcon,DMT,0.19,0.63
+1944,Falcon,DMT,0.41,0.62
+1945,Falcon,DMT,0.37,0.55
+1946,Falcon,DMT,0.44,0.66
+1947,Falcon,DMT,0.46,0.65
+1948,Falcon,DMT,0.41,0.59
+1949,Falcon,DMT,0.45,0.57
+1950,Falcon,DMT,0.33,0.6
+1951,Falcon,DMT,0.31,0.66
+1952,Falcon,DMT,0.46,0.61
+1953,Falcon,DMT,0.35,0.72
+1954,Falcon,DMT,0.41,0.65
+1955,Falcon,DMT,0.27,0.6
+1956,Falcon,DMT,0.39,0.64
+1957,Falcon,DMT,0.46,0.58
+1958,Falcon,DMT,0.36,0.61
+1959,Falcon,DMT,0.37,0.61
+1960,Falcon,DMT,0.36,0.62
+1961,Falcon,DMT,0.3,0.68
+1962,Falcon,DMT,0.34,0.63
+1963,Falcon,DMT,0.38,0.61
+1964,Falcon,DMT,0.39,0.6
+1965,Falcon,DMT,0.36,0.63
+1966,Falcon,DMT,0.54,0.61
+1967,Falcon,DMT,0.3,0.64
+1968,Falcon,DMT,0.3,0.61
+1969,Falcon,DMT,0.4,0.65
+1970,Falcon,DMT,0.25,0.6
+1971,Falcon,DMT,0.54,0.63
+1972,Falcon,DMT,0.43,0.61
+1973,Falcon,DMT,0.43,0.65
+1974,Falcon,DMT,0.31,0.61
+1975,Falcon,DMT,0.45,0.67
+1976,Falcon,DMT,0.52,0.59
+1977,Falcon,DMT,0.27,0.65
+1978,Falcon,DMT,0.26,0.63
+1979,Falcon,DMT,0.46,0.63
+1980,Falcon,DMT,0.15,0.59
+1981,Falcon,DMT,0.5,0.55
+1982,Falcon,DMT,0.35,0.61
+1983,Falcon,DMT,0.4,0.54
+1984,Falcon,DMT,0.33,0.6
+1985,Falcon,DMT,0.35,0.67
+1986,Falcon,DMT,0.4,0.58
+1987,Falcon,DMT,0.49,0.61
+1988,Falcon,DMT,0.24,0.66
+1989,Falcon,DMT,0.55,0.67
+1990,Falcon,DMT,0.48,0.61
+1991,Falcon,DMT,0.47,0.61
+1992,Falcon,DMT,0.32,0.6
+1993,Falcon,DMT,0.33,0.6
+1994,Falcon,DMT,0.34,0.67
+1995,Falcon,DMT,0.34,0.59
+1996,Falcon,DMT,0.46,0.67
+1997,Falcon,DMT,0.34,0.54
+1998,Falcon,DMT,0.43,0.61
+1999,Falcon,DMT,0.43,0.59
+2000,chatGPT,Ayahuasaca,0.33,0.89
+2001,chatGPT,Ayahuasaca,0.6,0.94
+2002,chatGPT,Ayahuasaca,0.41,0.91
+2003,chatGPT,Ayahuasaca,0.44,0.91
+2004,chatGPT,Ayahuasaca,0.39,0.84
+2005,chatGPT,Ayahuasaca,0.25,0.92
+2006,chatGPT,Ayahuasaca,0.37,0.94
+2007,chatGPT,Ayahuasaca,0.41,0.86
+2008,chatGPT,Ayahuasaca,0.37,0.93
+2009,chatGPT,Ayahuasaca,0.4,0.9
+2010,chatGPT,Ayahuasaca,0.41,0.88
+2011,chatGPT,Ayahuasaca,0.55,0.94
+2012,chatGPT,Ayahuasaca,0.27,0.92
+2013,chatGPT,Ayahuasaca,0.34,0.83
+2014,chatGPT,Ayahuasaca,0.46,0.88
+2015,chatGPT,Ayahuasaca,0.4,0.88
+2016,chatGPT,Ayahuasaca,0.42,0.88
+2017,chatGPT,Ayahuasaca,0.33,0.84
+2018,chatGPT,Ayahuasaca,0.55,0.91
+2019,chatGPT,Ayahuasaca,0.59,0.89
+2020,chatGPT,Ayahuasaca,0.29,0.94
+2021,chatGPT,Ayahuasaca,0.39,0.88
+2022,chatGPT,Ayahuasaca,0.49,0.88
+2023,chatGPT,Ayahuasaca,0.33,0.89
+2024,chatGPT,Ayahuasaca,0.42,0.89
+2025,chatGPT,Ayahuasaca,0.36,0.91
+2026,chatGPT,Ayahuasaca,0.45,0.89
+2027,chatGPT,Ayahuasaca,0.48,0.88
+2028,chatGPT,Ayahuasaca,0.36,0.94
+2029,chatGPT,Ayahuasaca,0.38,0.89
+2030,chatGPT,Ayahuasaca,0.39,0.83
+2031,chatGPT,Ayahuasaca,0.49,0.84
+2032,chatGPT,Ayahuasaca,0.31,0.83
+2033,chatGPT,Ayahuasaca,0.48,0.87
+2034,chatGPT,Ayahuasaca,0.49,0.85
+2035,chatGPT,Ayahuasaca,0.25,0.85
+2036,chatGPT,Ayahuasaca,0.31,0.88
+2037,chatGPT,Ayahuasaca,0.18,0.9
+2038,chatGPT,Ayahuasaca,0.42,0.89
+2039,chatGPT,Ayahuasaca,0.46,0.89
+2040,chatGPT,Ayahuasaca,0.33,0.88
+2041,chatGPT,Ayahuasaca,0.32,0.9
+2042,chatGPT,Ayahuasaca,0.45,0.89
+2043,chatGPT,Ayahuasaca,0.45,0.91
+2044,chatGPT,Ayahuasaca,0.4,0.9
+2045,chatGPT,Ayahuasaca,0.54,0.95
+2046,chatGPT,Ayahuasaca,0.36,0.91
+2047,chatGPT,Ayahuasaca,0.31,0.92
+2048,chatGPT,Ayahuasaca,0.26,0.88
+2049,chatGPT,Ayahuasaca,0.4,0.9
+2050,chatGPT,Ayahuasaca,0.63,0.95
+2051,chatGPT,Ayahuasaca,0.34,0.87
+2052,chatGPT,Ayahuasaca,0.37,0.95
+2053,chatGPT,Ayahuasaca,0.29,0.86
+2054,chatGPT,Ayahuasaca,0.26,0.9
+2055,chatGPT,Ayahuasaca,0.39,0.87
+2056,chatGPT,Ayahuasaca,0.39,0.9
+2057,chatGPT,Ayahuasaca,0.43,0.9
+2058,chatGPT,Ayahuasaca,0.32,0.91
+2059,chatGPT,Ayahuasaca,0.3,0.88
+2060,chatGPT,Ayahuasaca,0.41,0.88
+2061,chatGPT,Ayahuasaca,0.42,0.85
+2062,chatGPT,Ayahuasaca,0.26,0.9
+2063,chatGPT,Ayahuasaca,0.35,0.89
+2064,chatGPT,Ayahuasaca,0.34,0.88
+2065,chatGPT,Ayahuasaca,0.25,0.83
+2066,chatGPT,Ayahuasaca,0.35,0.83
+2067,chatGPT,Ayahuasaca,0.54,0.86
+2068,chatGPT,Ayahuasaca,0.23,0.91
+2069,chatGPT,Ayahuasaca,0.21,0.91
+2070,chatGPT,Ayahuasaca,0.34,0.94
+2071,chatGPT,Ayahuasaca,0.33,0.91
+2072,chatGPT,Ayahuasaca,0.27,0.87
+2073,chatGPT,Ayahuasaca,0.37,0.89
+2074,chatGPT,Ayahuasaca,0.55,0.91
+2075,chatGPT,Ayahuasaca,0.38,0.89
+2076,chatGPT,Ayahuasaca,0.24,0.89
+2077,chatGPT,Ayahuasaca,0.36,0.88
+2078,chatGPT,Ayahuasaca,0.31,0.83
+2079,chatGPT,Ayahuasaca,0.33,0.91
+2080,chatGPT,Ayahuasaca,0.53,0.89
+2081,chatGPT,Ayahuasaca,0.54,0.88
+2082,chatGPT,Ayahuasaca,0.38,0.86
+2083,chatGPT,Ayahuasaca,0.53,0.83
+2084,chatGPT,Ayahuasaca,0.41,0.9
+2085,chatGPT,Ayahuasaca,0.36,0.85
+2086,chatGPT,Ayahuasaca,0.41,0.9
+2087,chatGPT,Ayahuasaca,0.37,0.93
+2088,chatGPT,Ayahuasaca,0.49,0.9
+2089,chatGPT,Ayahuasaca,0.44,0.89
+2090,chatGPT,Ayahuasaca,0.45,0.91
+2091,chatGPT,Ayahuasaca,0.3,0.88
+2092,chatGPT,Ayahuasaca,0.42,0.86
+2093,chatGPT,Ayahuasaca,0.4,0.9
+2094,chatGPT,Ayahuasaca,0.47,0.9
+2095,chatGPT,Ayahuasaca,0.33,0.89
+2096,chatGPT,Ayahuasaca,0.47,0.88
+2097,chatGPT,Ayahuasaca,0.49,0.93
+2098,chatGPT,Ayahuasaca,0.42,0.9
+2099,chatGPT,Ayahuasaca,0.39,0.94
+2100,Gemini,Ayahuasaca,0.4,0.82
+2101,Gemini,Ayahuasaca,0.37,0.73
+2102,Gemini,Ayahuasaca,0.4,0.77
+2103,Gemini,Ayahuasaca,0.27,0.73
+2104,Gemini,Ayahuasaca,0.35,0.75
+2105,Gemini,Ayahuasaca,0.35,0.74
+2106,Gemini,Ayahuasaca,0.37,0.81
+2107,Gemini,Ayahuasaca,0.28,0.76
+2108,Gemini,Ayahuasaca,0.28,0.81
+2109,Gemini,Ayahuasaca,0.37,0.82
+2110,Gemini,Ayahuasaca,0.39,0.82
+2111,Gemini,Ayahuasaca,0.21,0.73
+2112,Gemini,Ayahuasaca,0.37,0.76
+2113,Gemini,Ayahuasaca,0.36,0.82
+2114,Gemini,Ayahuasaca,0.19,0.77
+2115,Gemini,Ayahuasaca,0.37,0.81
+2116,Gemini,Ayahuasaca,0.23,0.77
+2117,Gemini,Ayahuasaca,0.3,0.79
+2118,Gemini,Ayahuasaca,0.35,0.76
+2119,Gemini,Ayahuasaca,0.27,0.73
+2120,Gemini,Ayahuasaca,0.3,0.77
+2121,Gemini,Ayahuasaca,0.26,0.72
+2122,Gemini,Ayahuasaca,0.35,0.68
+2123,Gemini,Ayahuasaca,0.27,0.77
+2124,Gemini,Ayahuasaca,0.34,0.8
+2125,Gemini,Ayahuasaca,0.25,0.81
+2126,Gemini,Ayahuasaca,0.29,0.77
+2127,Gemini,Ayahuasaca,0.33,0.77
+2128,Gemini,Ayahuasaca,0.26,0.78
+2129,Gemini,Ayahuasaca,0.4,0.8
+2130,Gemini,Ayahuasaca,0.34,0.8
+2131,Gemini,Ayahuasaca,0.28,0.77
+2132,Gemini,Ayahuasaca,0.26,0.77
+2133,Gemini,Ayahuasaca,0.33,0.77
+2134,Gemini,Ayahuasaca,0.32,0.76
+2135,Gemini,Ayahuasaca,0.34,0.8
+2136,Gemini,Ayahuasaca,0.32,0.76
+2137,Gemini,Ayahuasaca,0.38,0.83
+2138,Gemini,Ayahuasaca,0.37,0.81
+2139,Gemini,Ayahuasaca,0.44,0.76
+2140,Gemini,Ayahuasaca,0.25,0.83
+2141,Gemini,Ayahuasaca,0.37,0.77
+2142,Gemini,Ayahuasaca,0.33,0.74
+2143,Gemini,Ayahuasaca,0.28,0.82
+2144,Gemini,Ayahuasaca,0.34,0.81
+2145,Gemini,Ayahuasaca,0.34,0.66
+2146,Gemini,Ayahuasaca,0.29,0.81
+2147,Gemini,Ayahuasaca,0.36,0.8
+2148,Gemini,Ayahuasaca,0.42,0.76
+2149,Gemini,Ayahuasaca,0.38,0.79
+2150,Gemini,Ayahuasaca,0.33,0.75
+2151,Gemini,Ayahuasaca,0.35,0.74
+2152,Gemini,Ayahuasaca,0.4,0.74
+2153,Gemini,Ayahuasaca,0.41,0.74
+2154,Gemini,Ayahuasaca,0.31,0.71
+2155,Gemini,Ayahuasaca,0.43,0.76
+2156,Gemini,Ayahuasaca,0.28,0.76
+2157,Gemini,Ayahuasaca,0.26,0.82
+2158,Gemini,Ayahuasaca,0.25,0.91
+2159,Gemini,Ayahuasaca,0.28,0.81
+2160,Gemini,Ayahuasaca,0.38,0.77
+2161,Gemini,Ayahuasaca,0.3,0.72
+2162,Gemini,Ayahuasaca,0.39,0.78
+2163,Gemini,Ayahuasaca,0.31,0.89
+2164,Gemini,Ayahuasaca,0.35,0.81
+2165,Gemini,Ayahuasaca,0.22,0.74
+2166,Gemini,Ayahuasaca,0.42,0.83
+2167,Gemini,Ayahuasaca,0.21,0.85
+2168,Gemini,Ayahuasaca,0.26,0.83
+2169,Gemini,Ayahuasaca,0.38,0.8
+2170,Gemini,Ayahuasaca,0.32,0.76
+2171,Gemini,Ayahuasaca,0.33,0.8
+2172,Gemini,Ayahuasaca,0.42,0.75
+2173,Gemini,Ayahuasaca,0.43,0.78
+2174,Gemini,Ayahuasaca,0.33,0.77
+2175,Gemini,Ayahuasaca,0.38,0.76
+2176,Gemini,Ayahuasaca,0.32,0.84
+2177,Gemini,Ayahuasaca,0.37,0.79
+2178,Gemini,Ayahuasaca,0.2,0.73
+2179,Gemini,Ayahuasaca,0.22,0.83
+2180,Gemini,Ayahuasaca,0.33,0.74
+2181,Gemini,Ayahuasaca,0.36,0.77
+2182,Gemini,Ayahuasaca,0.29,0.74
+2183,Gemini,Ayahuasaca,0.28,0.79
+2184,Gemini,Ayahuasaca,0.27,0.77
+2185,Gemini,Ayahuasaca,0.39,0.82
+2186,Gemini,Ayahuasaca,0.34,0.77
+2187,Gemini,Ayahuasaca,0.32,0.8
+2188,Gemini,Ayahuasaca,0.41,0.7
+2189,Gemini,Ayahuasaca,0.36,0.76
+2190,Gemini,Ayahuasaca,0.35,0.78
+2191,Gemini,Ayahuasaca,0.25,0.83
+2192,Gemini,Ayahuasaca,0.36,0.78
+2193,Gemini,Ayahuasaca,0.51,0.72
+2194,Gemini,Ayahuasaca,0.32,0.81
+2195,Gemini,Ayahuasaca,0.33,0.82
+2196,Gemini,Ayahuasaca,0.35,0.77
+2197,Gemini,Ayahuasaca,0.39,0.84
+2198,Gemini,Ayahuasaca,0.34,0.78
+2199,Gemini,Ayahuasaca,0.37,0.81
+2200,Sonnat,Ayahuasaca,0.29,0.82
+2201,Sonnat,Ayahuasaca,0.22,0.84
+2202,Sonnat,Ayahuasaca,0.21,0.81
+2203,Sonnat,Ayahuasaca,0.39,0.82
+2204,Sonnat,Ayahuasaca,0.23,0.81
+2205,Sonnat,Ayahuasaca,0.32,0.81
+2206,Sonnat,Ayahuasaca,0.24,0.79
+2207,Sonnat,Ayahuasaca,0.38,0.81
+2208,Sonnat,Ayahuasaca,0.35,0.81
+2209,Sonnat,Ayahuasaca,0.26,0.81
+2210,Sonnat,Ayahuasaca,0.29,0.83
+2211,Sonnat,Ayahuasaca,0.2,0.8
+2212,Sonnat,Ayahuasaca,0.3,0.82
+2213,Sonnat,Ayahuasaca,0.46,0.82
+2214,Sonnat,Ayahuasaca,0.28,0.81
+2215,Sonnat,Ayahuasaca,0.23,0.81
+2216,Sonnat,Ayahuasaca,0.21,0.79
+2217,Sonnat,Ayahuasaca,0.27,0.84
+2218,Sonnat,Ayahuasaca,0.28,0.83
+2219,Sonnat,Ayahuasaca,0.23,0.81
+2220,Sonnat,Ayahuasaca,0.38,0.84
+2221,Sonnat,Ayahuasaca,0.32,0.8
+2222,Sonnat,Ayahuasaca,0.19,0.78
+2223,Sonnat,Ayahuasaca,0.27,0.82
+2224,Sonnat,Ayahuasaca,0.28,0.84
+2225,Sonnat,Ayahuasaca,0.4,0.82
+2226,Sonnat,Ayahuasaca,0.26,0.83
+2227,Sonnat,Ayahuasaca,0.42,0.76
+2228,Sonnat,Ayahuasaca,0.27,0.82
+2229,Sonnat,Ayahuasaca,0.37,0.83
+2230,Sonnat,Ayahuasaca,0.19,0.81
+2231,Sonnat,Ayahuasaca,0.3,0.82
+2232,Sonnat,Ayahuasaca,0.39,0.82
+2233,Sonnat,Ayahuasaca,0.16,0.8
+2234,Sonnat,Ayahuasaca,0.39,0.79
+2235,Sonnat,Ayahuasaca,0.32,0.8
+2236,Sonnat,Ayahuasaca,0.19,0.8
+2237,Sonnat,Ayahuasaca,0.3,0.83
+2238,Sonnat,Ayahuasaca,0.32,0.82
+2239,Sonnat,Ayahuasaca,0.23,0.83
+2240,Sonnat,Ayahuasaca,0.28,0.82
+2241,Sonnat,Ayahuasaca,0.34,0.84
+2242,Sonnat,Ayahuasaca,0.22,0.85
+2243,Sonnat,Ayahuasaca,0.41,0.82
+2244,Sonnat,Ayahuasaca,0.3,0.81
+2245,Sonnat,Ayahuasaca,0.26,0.77
+2246,Sonnat,Ayahuasaca,0.21,0.81
+2247,Sonnat,Ayahuasaca,0.21,0.83
+2248,Sonnat,Ayahuasaca,0.37,0.84
+2249,Sonnat,Ayahuasaca,0.41,0.84
+2250,Sonnat,Ayahuasaca,0.18,0.83
+2251,Sonnat,Ayahuasaca,0.3,0.81
+2252,Sonnat,Ayahuasaca,0.24,0.8
+2253,Sonnat,Ayahuasaca,0.29,0.78
+2254,Sonnat,Ayahuasaca,0.24,0.76
+2255,Sonnat,Ayahuasaca,0.26,0.8
+2256,Sonnat,Ayahuasaca,0.27,0.81
+2257,Sonnat,Ayahuasaca,0.18,0.81
+2258,Sonnat,Ayahuasaca,0.38,0.82
+2259,Sonnat,Ayahuasaca,0.23,0.82
+2260,Sonnat,Ayahuasaca,0.27,0.81
+2261,Sonnat,Ayahuasaca,0.28,0.81
+2262,Sonnat,Ayahuasaca,0.17,0.78
+2263,Sonnat,Ayahuasaca,0.31,0.79
+2264,Sonnat,Ayahuasaca,0.26,0.8
+2265,Sonnat,Ayahuasaca,0.35,0.82
+2266,Sonnat,Ayahuasaca,0.33,0.78
+2267,Sonnat,Ayahuasaca,0.42,0.82
+2268,Sonnat,Ayahuasaca,0.28,0.78
+2269,Sonnat,Ayahuasaca,0.33,0.8
+2270,Sonnat,Ayahuasaca,0.24,0.78
+2271,Sonnat,Ayahuasaca,0.22,0.8
+2272,Sonnat,Ayahuasaca,0.4,0.84
+2273,Sonnat,Ayahuasaca,0.28,0.8
+2274,Sonnat,Ayahuasaca,0.32,0.8
+2275,Sonnat,Ayahuasaca,0.23,0.81
+2276,Sonnat,Ayahuasaca,0.24,0.8
+2277,Sonnat,Ayahuasaca,0.32,0.8
+2278,Sonnat,Ayahuasaca,0.27,0.79
+2279,Sonnat,Ayahuasaca,0.34,0.79
+2280,Sonnat,Ayahuasaca,0.29,0.79
+2281,Sonnat,Ayahuasaca,0.21,0.86
+2282,Sonnat,Ayahuasaca,0.37,0.81
+2283,Sonnat,Ayahuasaca,0.22,0.78
+2284,Sonnat,Ayahuasaca,0.33,0.84
+2285,Sonnat,Ayahuasaca,0.22,0.78
+2286,Sonnat,Ayahuasaca,0.35,0.82
+2287,Sonnat,Ayahuasaca,0.24,0.81
+2288,Sonnat,Ayahuasaca,0.27,0.77
+2289,Sonnat,Ayahuasaca,0.24,0.79
+2290,Sonnat,Ayahuasaca,0.47,0.83
+2291,Sonnat,Ayahuasaca,0.35,0.81
+2292,Sonnat,Ayahuasaca,0.44,0.83
+2293,Sonnat,Ayahuasaca,0.32,0.83
+2294,Sonnat,Ayahuasaca,0.31,0.84
+2295,Sonnat,Ayahuasaca,0.32,0.84
+2296,Sonnat,Ayahuasaca,0.24,0.81
+2297,Sonnat,Ayahuasaca,0.32,0.79
+2298,Sonnat,Ayahuasaca,0.18,0.83
+2299,Sonnat,Ayahuasaca,0.31,0.78
+2300,Llama ,Ayahuasaca,0.35,0.68
+2301,Llama ,Ayahuasaca,0.35,0.72
+2302,Llama ,Ayahuasaca,0.29,0.71
+2303,Llama ,Ayahuasaca,0.35,0.73
+2304,Llama ,Ayahuasaca,0.38,0.63
+2305,Llama ,Ayahuasaca,0.41,0.73
+2306,Llama ,Ayahuasaca,0.31,0.7
+2307,Llama ,Ayahuasaca,0.33,0.66
+2308,Llama ,Ayahuasaca,0.41,0.64
+2309,Llama ,Ayahuasaca,0.23,0.7
+2310,Llama ,Ayahuasaca,0.33,0.71
+2311,Llama ,Ayahuasaca,0.34,0.66
+2312,Llama ,Ayahuasaca,0.38,0.69
+2313,Llama ,Ayahuasaca,0.32,0.74
+2314,Llama ,Ayahuasaca,0.37,0.69
+2315,Llama ,Ayahuasaca,0.31,0.69
+2316,Llama ,Ayahuasaca,0.3,0.7
+2317,Llama ,Ayahuasaca,0.39,0.71
+2318,Llama ,Ayahuasaca,0.43,0.65
+2319,Llama ,Ayahuasaca,0.35,0.68
+2320,Llama ,Ayahuasaca,0.29,0.74
+2321,Llama ,Ayahuasaca,0.41,0.68
+2322,Llama ,Ayahuasaca,0.39,0.7
+2323,Llama ,Ayahuasaca,0.3,0.7
+2324,Llama ,Ayahuasaca,0.38,0.65
+2325,Llama ,Ayahuasaca,0.41,0.66
+2326,Llama ,Ayahuasaca,0.41,0.76
+2327,Llama ,Ayahuasaca,0.29,0.71
+2328,Llama ,Ayahuasaca,0.3,0.69
+2329,Llama ,Ayahuasaca,0.42,0.73
+2330,Llama ,Ayahuasaca,0.37,0.71
+2331,Llama ,Ayahuasaca,0.21,0.7
+2332,Llama ,Ayahuasaca,0.25,0.67
+2333,Llama ,Ayahuasaca,0.34,0.76
+2334,Llama ,Ayahuasaca,0.35,0.72
+2335,Llama ,Ayahuasaca,0.34,0.75
+2336,Llama ,Ayahuasaca,0.33,0.7
+2337,Llama ,Ayahuasaca,0.3,0.68
+2338,Llama ,Ayahuasaca,0.29,0.69
+2339,Llama ,Ayahuasaca,0.42,0.7
+2340,Llama ,Ayahuasaca,0.46,0.65
+2341,Llama ,Ayahuasaca,0.38,0.66
+2342,Llama ,Ayahuasaca,0.32,0.68
+2343,Llama ,Ayahuasaca,0.39,0.71
+2344,Llama ,Ayahuasaca,0.38,0.69
+2345,Llama ,Ayahuasaca,0.37,0.67
+2346,Llama ,Ayahuasaca,0.43,0.67
+2347,Llama ,Ayahuasaca,0.41,0.66
+2348,Llama ,Ayahuasaca,0.35,0.72
+2349,Llama ,Ayahuasaca,0.32,0.71
+2350,Llama ,Ayahuasaca,0.32,0.71
+2351,Llama ,Ayahuasaca,0.32,0.66
+2352,Llama ,Ayahuasaca,0.27,0.67
+2353,Llama ,Ayahuasaca,0.39,0.69
+2354,Llama ,Ayahuasaca,0.34,0.69
+2355,Llama ,Ayahuasaca,0.31,0.73
+2356,Llama ,Ayahuasaca,0.5,0.73
+2357,Llama ,Ayahuasaca,0.27,0.63
+2358,Llama ,Ayahuasaca,0.35,0.7
+2359,Llama ,Ayahuasaca,0.41,0.71
+2360,Llama ,Ayahuasaca,0.49,0.7
+2361,Llama ,Ayahuasaca,0.32,0.73
+2362,Llama ,Ayahuasaca,0.28,0.67
+2363,Llama ,Ayahuasaca,0.28,0.64
+2364,Llama ,Ayahuasaca,0.34,0.72
+2365,Llama ,Ayahuasaca,0.3,0.73
+2366,Llama ,Ayahuasaca,0.43,0.72
+2367,Llama ,Ayahuasaca,0.25,0.74
+2368,Llama ,Ayahuasaca,0.28,0.66
+2369,Llama ,Ayahuasaca,0.23,0.69
+2370,Llama ,Ayahuasaca,0.32,0.69
+2371,Llama ,Ayahuasaca,0.31,0.69
+2372,Llama ,Ayahuasaca,0.29,0.66
+2373,Llama ,Ayahuasaca,0.36,0.65
+2374,Llama ,Ayahuasaca,0.19,0.67
+2375,Llama ,Ayahuasaca,0.33,0.68
+2376,Llama ,Ayahuasaca,0.38,0.64
+2377,Llama ,Ayahuasaca,0.32,0.68
+2378,Llama ,Ayahuasaca,0.36,0.69
+2379,Llama ,Ayahuasaca,0.3,0.7
+2380,Llama ,Ayahuasaca,0.37,0.66
+2381,Llama ,Ayahuasaca,0.39,0.61
+2382,Llama ,Ayahuasaca,0.24,0.66
+2383,Llama ,Ayahuasaca,0.41,0.7
+2384,Llama ,Ayahuasaca,0.21,0.7
+2385,Llama ,Ayahuasaca,0.3,0.68
+2386,Llama ,Ayahuasaca,0.29,0.69
+2387,Llama ,Ayahuasaca,0.31,0.7
+2388,Llama ,Ayahuasaca,0.32,0.69
+2389,Llama ,Ayahuasaca,0.31,0.72
+2390,Llama ,Ayahuasaca,0.37,0.67
+2391,Llama ,Ayahuasaca,0.34,0.71
+2392,Llama ,Ayahuasaca,0.25,0.62
+2393,Llama ,Ayahuasaca,0.32,0.7
+2394,Llama ,Ayahuasaca,0.25,0.68
+2395,Llama ,Ayahuasaca,0.36,0.7
+2396,Llama ,Ayahuasaca,0.43,0.71
+2397,Llama ,Ayahuasaca,0.42,0.64
+2398,Llama ,Ayahuasaca,0.3,0.67
+2399,Llama ,Ayahuasaca,0.36,0.67
+2400,Falcon,Ayahuasaca,0.45,0.71
+2401,Falcon,Ayahuasaca,0.35,0.7
+2402,Falcon,Ayahuasaca,0.44,0.7
+2403,Falcon,Ayahuasaca,0.24,0.72
+2404,Falcon,Ayahuasaca,0.36,0.69
+2405,Falcon,Ayahuasaca,0.32,0.67
+2406,Falcon,Ayahuasaca,0.36,0.71
+2407,Falcon,Ayahuasaca,0.42,0.71
+2408,Falcon,Ayahuasaca,0.4,0.71
+2409,Falcon,Ayahuasaca,0.31,0.7
+2410,Falcon,Ayahuasaca,0.35,0.69
+2411,Falcon,Ayahuasaca,0.32,0.7
+2412,Falcon,Ayahuasaca,0.48,0.71
+2413,Falcon,Ayahuasaca,0.38,0.66
+2414,Falcon,Ayahuasaca,0.37,0.69
+2415,Falcon,Ayahuasaca,0.35,0.71
+2416,Falcon,Ayahuasaca,0.29,0.71
+2417,Falcon,Ayahuasaca,0.41,0.74
+2418,Falcon,Ayahuasaca,0.37,0.71
+2419,Falcon,Ayahuasaca,0.28,0.73
+2420,Falcon,Ayahuasaca,0.33,0.7
+2421,Falcon,Ayahuasaca,0.41,0.69
+2422,Falcon,Ayahuasaca,0.38,0.68
+2423,Falcon,Ayahuasaca,0.35,0.69
+2424,Falcon,Ayahuasaca,0.28,0.69
+2425,Falcon,Ayahuasaca,0.32,0.66
+2426,Falcon,Ayahuasaca,0.41,0.71
+2427,Falcon,Ayahuasaca,0.31,0.7
+2428,Falcon,Ayahuasaca,0.5,0.69
+2429,Falcon,Ayahuasaca,0.36,0.69
+2430,Falcon,Ayahuasaca,0.45,0.71
+2431,Falcon,Ayahuasaca,0.22,0.67
+2432,Falcon,Ayahuasaca,0.38,0.73
+2433,Falcon,Ayahuasaca,0.32,0.71
+2434,Falcon,Ayahuasaca,0.42,0.68
+2435,Falcon,Ayahuasaca,0.36,0.7
+2436,Falcon,Ayahuasaca,0.42,0.74
+2437,Falcon,Ayahuasaca,0.29,0.7
+2438,Falcon,Ayahuasaca,0.24,0.69
+2439,Falcon,Ayahuasaca,0.44,0.67
+2440,Falcon,Ayahuasaca,0.25,0.68
+2441,Falcon,Ayahuasaca,0.39,0.7
+2442,Falcon,Ayahuasaca,0.33,0.69
+2443,Falcon,Ayahuasaca,0.36,0.68
+2444,Falcon,Ayahuasaca,0.41,0.73
+2445,Falcon,Ayahuasaca,0.38,0.75
+2446,Falcon,Ayahuasaca,0.38,0.7
+2447,Falcon,Ayahuasaca,0.38,0.74
+2448,Falcon,Ayahuasaca,0.3,0.7
+2449,Falcon,Ayahuasaca,0.34,0.7
+2450,Falcon,Ayahuasaca,0.35,0.72
+2451,Falcon,Ayahuasaca,0.28,0.72
+2452,Falcon,Ayahuasaca,0.4,0.68
+2453,Falcon,Ayahuasaca,0.46,0.68
+2454,Falcon,Ayahuasaca,0.36,0.68
+2455,Falcon,Ayahuasaca,0.31,0.7
+2456,Falcon,Ayahuasaca,0.37,0.71
+2457,Falcon,Ayahuasaca,0.39,0.67
+2458,Falcon,Ayahuasaca,0.3,0.73
+2459,Falcon,Ayahuasaca,0.41,0.68
+2460,Falcon,Ayahuasaca,0.41,0.65
+2461,Falcon,Ayahuasaca,0.41,0.73
+2462,Falcon,Ayahuasaca,0.4,0.66
+2463,Falcon,Ayahuasaca,0.37,0.71
+2464,Falcon,Ayahuasaca,0.47,0.69
+2465,Falcon,Ayahuasaca,0.35,0.7
+2466,Falcon,Ayahuasaca,0.48,0.68
+2467,Falcon,Ayahuasaca,0.39,0.68
+2468,Falcon,Ayahuasaca,0.4,0.71
+2469,Falcon,Ayahuasaca,0.43,0.68
+2470,Falcon,Ayahuasaca,0.33,0.71
+2471,Falcon,Ayahuasaca,0.29,0.69
+2472,Falcon,Ayahuasaca,0.37,0.7
+2473,Falcon,Ayahuasaca,0.4,0.7
+2474,Falcon,Ayahuasaca,0.38,0.72
+2475,Falcon,Ayahuasaca,0.34,0.71
+2476,Falcon,Ayahuasaca,0.35,0.7
+2477,Falcon,Ayahuasaca,0.38,0.68
+2478,Falcon,Ayahuasaca,0.45,0.68
+2479,Falcon,Ayahuasaca,0.34,0.7
+2480,Falcon,Ayahuasaca,0.3,0.72
+2481,Falcon,Ayahuasaca,0.37,0.72
+2482,Falcon,Ayahuasaca,0.36,0.71
+2483,Falcon,Ayahuasaca,0.34,0.72
+2484,Falcon,Ayahuasaca,0.26,0.69
+2485,Falcon,Ayahuasaca,0.33,0.7
+2486,Falcon,Ayahuasaca,0.21,0.68
+2487,Falcon,Ayahuasaca,0.26,0.69
+2488,Falcon,Ayahuasaca,0.34,0.7
+2489,Falcon,Ayahuasaca,0.29,0.69
+2490,Falcon,Ayahuasaca,0.42,0.7
+2491,Falcon,Ayahuasaca,0.33,0.7
+2492,Falcon,Ayahuasaca,0.27,0.76
+2493,Falcon,Ayahuasaca,0.46,0.73
+2494,Falcon,Ayahuasaca,0.31,0.7
+2495,Falcon,Ayahuasaca,0.34,0.71
+2496,Falcon,Ayahuasaca,0.43,0.69
+2497,Falcon,Ayahuasaca,0.35,0.69
+2498,Falcon,Ayahuasaca,0.4,0.69
+2499,Falcon,Ayahuasaca,0.33,0.72
+2500,chatGPT,Mescaline,0.73,0.74
+2501,chatGPT,Mescaline,0.71,0.75
+2502,chatGPT,Mescaline,0.84,0.71
+2503,chatGPT,Mescaline,0.55,0.79
+2504,chatGPT,Mescaline,0.83,0.72
+2505,chatGPT,Mescaline,0.64,0.72
+2506,chatGPT,Mescaline,0.59,0.73
+2507,chatGPT,Mescaline,0.74,0.81
+2508,chatGPT,Mescaline,0.65,0.75
+2509,chatGPT,Mescaline,0.69,0.69
+2510,chatGPT,Mescaline,0.74,0.71
+2511,chatGPT,Mescaline,0.66,0.7
+2512,chatGPT,Mescaline,0.72,0.64
+2513,chatGPT,Mescaline,0.58,0.69
+2514,chatGPT,Mescaline,0.59,0.73
+2515,chatGPT,Mescaline,0.76,0.73
+2516,chatGPT,Mescaline,0.61,0.74
+2517,chatGPT,Mescaline,0.72,0.73
+2518,chatGPT,Mescaline,0.76,0.69
+2519,chatGPT,Mescaline,0.49,0.76
+2520,chatGPT,Mescaline,0.69,0.76
+2521,chatGPT,Mescaline,0.72,0.69
+2522,chatGPT,Mescaline,0.71,0.68
+2523,chatGPT,Mescaline,0.73,0.76
+2524,chatGPT,Mescaline,0.63,0.78
+2525,chatGPT,Mescaline,0.68,0.77
+2526,chatGPT,Mescaline,0.58,0.76
+2527,chatGPT,Mescaline,0.61,0.7
+2528,chatGPT,Mescaline,0.77,0.81
+2529,chatGPT,Mescaline,0.61,0.74
+2530,chatGPT,Mescaline,0.66,0.75
+2531,chatGPT,Mescaline,0.68,0.74
+2532,chatGPT,Mescaline,0.74,0.7
+2533,chatGPT,Mescaline,0.73,0.75
+2534,chatGPT,Mescaline,0.65,0.72
+2535,chatGPT,Mescaline,0.61,0.69
+2536,chatGPT,Mescaline,0.69,0.77
+2537,chatGPT,Mescaline,0.82,0.68
+2538,chatGPT,Mescaline,0.67,0.69
+2539,chatGPT,Mescaline,0.71,0.72
+2540,chatGPT,Mescaline,0.74,0.71
+2541,chatGPT,Mescaline,0.69,0.77
+2542,chatGPT,Mescaline,0.62,0.7
+2543,chatGPT,Mescaline,0.63,0.77
+2544,chatGPT,Mescaline,0.55,0.75
+2545,chatGPT,Mescaline,0.51,0.73
+2546,chatGPT,Mescaline,0.58,0.76
+2547,chatGPT,Mescaline,0.74,0.73
+2548,chatGPT,Mescaline,0.69,0.71
+2549,chatGPT,Mescaline,0.56,0.78
+2550,chatGPT,Mescaline,0.61,0.73
+2551,chatGPT,Mescaline,0.65,0.76
+2552,chatGPT,Mescaline,0.59,0.75
+2553,chatGPT,Mescaline,0.58,0.77
+2554,chatGPT,Mescaline,0.63,0.72
+2555,chatGPT,Mescaline,0.6,0.72
+2556,chatGPT,Mescaline,0.57,0.77
+2557,chatGPT,Mescaline,0.65,0.7
+2558,chatGPT,Mescaline,0.71,0.72
+2559,chatGPT,Mescaline,0.83,0.74
+2560,chatGPT,Mescaline,0.66,0.84
+2561,chatGPT,Mescaline,0.86,0.67
+2562,chatGPT,Mescaline,0.69,0.71
+2563,chatGPT,Mescaline,0.58,0.78
+2564,chatGPT,Mescaline,0.53,0.68
+2565,chatGPT,Mescaline,0.49,0.77
+2566,chatGPT,Mescaline,0.53,0.68
+2567,chatGPT,Mescaline,0.71,0.72
+2568,chatGPT,Mescaline,0.67,0.71
+2569,chatGPT,Mescaline,0.67,0.8
+2570,chatGPT,Mescaline,0.61,0.68
+2571,chatGPT,Mescaline,0.67,0.71
+2572,chatGPT,Mescaline,0.54,0.72
+2573,chatGPT,Mescaline,0.72,0.79
+2574,chatGPT,Mescaline,0.71,0.69
+2575,chatGPT,Mescaline,0.66,0.76
+2576,chatGPT,Mescaline,0.63,0.71
+2577,chatGPT,Mescaline,0.63,0.71
+2578,chatGPT,Mescaline,0.56,0.69
+2579,chatGPT,Mescaline,0.6,0.6
+2580,chatGPT,Mescaline,0.64,0.75
+2581,chatGPT,Mescaline,0.79,0.75
+2582,chatGPT,Mescaline,0.6,0.7
+2583,chatGPT,Mescaline,0.48,0.77
+2584,chatGPT,Mescaline,0.68,0.67
+2585,chatGPT,Mescaline,0.56,0.74
+2586,chatGPT,Mescaline,0.64,0.74
+2587,chatGPT,Mescaline,0.61,0.73
+2588,chatGPT,Mescaline,0.64,0.74
+2589,chatGPT,Mescaline,0.71,0.75
+2590,chatGPT,Mescaline,0.66,0.73
+2591,chatGPT,Mescaline,0.77,0.74
+2592,chatGPT,Mescaline,0.62,0.66
+2593,chatGPT,Mescaline,0.59,0.65
+2594,chatGPT,Mescaline,0.67,0.79
+2595,chatGPT,Mescaline,0.69,0.68
+2596,chatGPT,Mescaline,0.65,0.75
+2597,chatGPT,Mescaline,0.72,0.8
+2598,chatGPT,Mescaline,0.8,0.77
+2599,chatGPT,Mescaline,0.7,0.68
+2600,Gemini,Mescaline,0.56,0.81
+2601,Gemini,Mescaline,0.49,0.76
+2602,Gemini,Mescaline,0.56,0.79
+2603,Gemini,Mescaline,0.63,0.79
+2604,Gemini,Mescaline,0.6,0.67
+2605,Gemini,Mescaline,0.62,0.77
+2606,Gemini,Mescaline,0.53,0.75
+2607,Gemini,Mescaline,0.65,0.76
+2608,Gemini,Mescaline,0.61,0.75
+2609,Gemini,Mescaline,0.6,0.8
+2610,Gemini,Mescaline,0.55,0.7
+2611,Gemini,Mescaline,0.62,0.74
+2612,Gemini,Mescaline,0.63,0.72
+2613,Gemini,Mescaline,0.57,0.78
+2614,Gemini,Mescaline,0.56,0.8
+2615,Gemini,Mescaline,0.49,0.74
+2616,Gemini,Mescaline,0.52,0.76
+2617,Gemini,Mescaline,0.54,0.73
+2618,Gemini,Mescaline,0.61,0.74
+2619,Gemini,Mescaline,0.59,0.75
+2620,Gemini,Mescaline,0.62,0.72
+2621,Gemini,Mescaline,0.68,0.71
+2622,Gemini,Mescaline,0.52,0.71
+2623,Gemini,Mescaline,0.53,0.76
+2624,Gemini,Mescaline,0.61,0.73
+2625,Gemini,Mescaline,0.6,0.76
+2626,Gemini,Mescaline,0.52,0.75
+2627,Gemini,Mescaline,0.58,0.76
+2628,Gemini,Mescaline,0.56,0.73
+2629,Gemini,Mescaline,0.66,0.75
+2630,Gemini,Mescaline,0.59,0.79
+2631,Gemini,Mescaline,0.58,0.8
+2632,Gemini,Mescaline,0.57,0.7
+2633,Gemini,Mescaline,0.59,0.75
+2634,Gemini,Mescaline,0.62,0.73
+2635,Gemini,Mescaline,0.71,0.71
+2636,Gemini,Mescaline,0.6,0.73
+2637,Gemini,Mescaline,0.58,0.75
+2638,Gemini,Mescaline,0.58,0.73
+2639,Gemini,Mescaline,0.58,0.75
+2640,Gemini,Mescaline,0.66,0.74
+2641,Gemini,Mescaline,0.52,0.73
+2642,Gemini,Mescaline,0.53,0.78
+2643,Gemini,Mescaline,0.49,0.75
+2644,Gemini,Mescaline,0.55,0.76
+2645,Gemini,Mescaline,0.49,0.75
+2646,Gemini,Mescaline,0.58,0.75
+2647,Gemini,Mescaline,0.47,0.69
+2648,Gemini,Mescaline,0.58,0.74
+2649,Gemini,Mescaline,0.52,0.74
+2650,Gemini,Mescaline,0.55,0.73
+2651,Gemini,Mescaline,0.49,0.75
+2652,Gemini,Mescaline,0.54,0.71
+2653,Gemini,Mescaline,0.48,0.77
+2654,Gemini,Mescaline,0.58,0.73
+2655,Gemini,Mescaline,0.54,0.76
+2656,Gemini,Mescaline,0.54,0.75
+2657,Gemini,Mescaline,0.62,0.78
+2658,Gemini,Mescaline,0.51,0.78
+2659,Gemini,Mescaline,0.59,0.69
+2660,Gemini,Mescaline,0.61,0.74
+2661,Gemini,Mescaline,0.6,0.75
+2662,Gemini,Mescaline,0.51,0.72
+2663,Gemini,Mescaline,0.6,0.78
+2664,Gemini,Mescaline,0.64,0.79
+2665,Gemini,Mescaline,0.57,0.75
+2666,Gemini,Mescaline,0.63,0.74
+2667,Gemini,Mescaline,0.61,0.77
+2668,Gemini,Mescaline,0.53,0.73
+2669,Gemini,Mescaline,0.59,0.77
+2670,Gemini,Mescaline,0.55,0.73
+2671,Gemini,Mescaline,0.59,0.78
+2672,Gemini,Mescaline,0.63,0.74
+2673,Gemini,Mescaline,0.55,0.8
+2674,Gemini,Mescaline,0.56,0.79
+2675,Gemini,Mescaline,0.67,0.78
+2676,Gemini,Mescaline,0.66,0.74
+2677,Gemini,Mescaline,0.55,0.78
+2678,Gemini,Mescaline,0.63,0.83
+2679,Gemini,Mescaline,0.53,0.75
+2680,Gemini,Mescaline,0.52,0.83
+2681,Gemini,Mescaline,0.54,0.77
+2682,Gemini,Mescaline,0.5,0.75
+2683,Gemini,Mescaline,0.65,0.71
+2684,Gemini,Mescaline,0.53,0.76
+2685,Gemini,Mescaline,0.54,0.73
+2686,Gemini,Mescaline,0.53,0.76
+2687,Gemini,Mescaline,0.59,0.73
+2688,Gemini,Mescaline,0.49,0.77
+2689,Gemini,Mescaline,0.54,0.74
+2690,Gemini,Mescaline,0.54,0.78
+2691,Gemini,Mescaline,0.64,0.67
+2692,Gemini,Mescaline,0.55,0.75
+2693,Gemini,Mescaline,0.54,0.72
+2694,Gemini,Mescaline,0.48,0.76
+2695,Gemini,Mescaline,0.55,0.76
+2696,Gemini,Mescaline,0.57,0.69
+2697,Gemini,Mescaline,0.53,0.75
+2698,Gemini,Mescaline,0.55,0.72
+2699,Gemini,Mescaline,0.52,0.77
+2700,Sonnat,Mescaline,0.7,0.71
+2701,Sonnat,Mescaline,0.64,0.69
+2702,Sonnat,Mescaline,0.47,0.6
+2703,Sonnat,Mescaline,0.57,0.73
+2704,Sonnat,Mescaline,0.5,0.69
+2705,Sonnat,Mescaline,0.63,0.68
+2706,Sonnat,Mescaline,0.62,0.63
+2707,Sonnat,Mescaline,0.5,0.64
+2708,Sonnat,Mescaline,0.7,0.71
+2709,Sonnat,Mescaline,0.68,0.65
+2710,Sonnat,Mescaline,0.6,0.69
+2711,Sonnat,Mescaline,0.65,0.72
+2712,Sonnat,Mescaline,0.59,0.69
+2713,Sonnat,Mescaline,0.58,0.73
+2714,Sonnat,Mescaline,0.69,0.77
+2715,Sonnat,Mescaline,0.65,0.79
+2716,Sonnat,Mescaline,0.72,0.64
+2717,Sonnat,Mescaline,0.66,0.63
+2718,Sonnat,Mescaline,0.7,0.71
+2719,Sonnat,Mescaline,0.68,0.75
+2720,Sonnat,Mescaline,0.59,0.65
+2721,Sonnat,Mescaline,0.62,0.66
+2722,Sonnat,Mescaline,0.75,0.77
+2723,Sonnat,Mescaline,0.7,0.65
+2724,Sonnat,Mescaline,0.5,0.66
+2725,Sonnat,Mescaline,0.62,0.66
+2726,Sonnat,Mescaline,0.6,0.62
+2727,Sonnat,Mescaline,0.68,0.74
+2728,Sonnat,Mescaline,0.58,0.68
+2729,Sonnat,Mescaline,0.46,0.68
+2730,Sonnat,Mescaline,0.53,0.67
+2731,Sonnat,Mescaline,0.58,0.74
+2732,Sonnat,Mescaline,0.51,0.7
+2733,Sonnat,Mescaline,0.54,0.68
+2734,Sonnat,Mescaline,0.6,0.67
+2735,Sonnat,Mescaline,0.51,0.65
+2736,Sonnat,Mescaline,0.68,0.63
+2737,Sonnat,Mescaline,0.61,0.71
+2738,Sonnat,Mescaline,0.75,0.76
+2739,Sonnat,Mescaline,0.72,0.7
+2740,Sonnat,Mescaline,0.65,0.8
+2741,Sonnat,Mescaline,0.58,0.64
+2742,Sonnat,Mescaline,0.54,0.73
+2743,Sonnat,Mescaline,0.72,0.79
+2744,Sonnat,Mescaline,0.67,0.68
+2745,Sonnat,Mescaline,0.53,0.66
+2746,Sonnat,Mescaline,0.59,0.69
+2747,Sonnat,Mescaline,0.65,0.75
+2748,Sonnat,Mescaline,0.6,0.74
+2749,Sonnat,Mescaline,0.63,0.63
+2750,Sonnat,Mescaline,0.61,0.7
+2751,Sonnat,Mescaline,0.59,0.71
+2752,Sonnat,Mescaline,0.71,0.67
+2753,Sonnat,Mescaline,0.59,0.68
+2754,Sonnat,Mescaline,0.61,0.66
+2755,Sonnat,Mescaline,0.73,0.66
+2756,Sonnat,Mescaline,0.57,0.68
+2757,Sonnat,Mescaline,0.52,0.73
+2758,Sonnat,Mescaline,0.52,0.64
+2759,Sonnat,Mescaline,0.61,0.75
+2760,Sonnat,Mescaline,0.66,0.73
+2761,Sonnat,Mescaline,0.53,0.68
+2762,Sonnat,Mescaline,0.61,0.66
+2763,Sonnat,Mescaline,0.61,0.64
+2764,Sonnat,Mescaline,0.69,0.67
+2765,Sonnat,Mescaline,0.57,0.64
+2766,Sonnat,Mescaline,0.59,0.72
+2767,Sonnat,Mescaline,0.58,0.72
+2768,Sonnat,Mescaline,0.66,0.73
+2769,Sonnat,Mescaline,0.56,0.65
+2770,Sonnat,Mescaline,0.59,0.64
+2771,Sonnat,Mescaline,0.63,0.65
+2772,Sonnat,Mescaline,0.71,0.68
+2773,Sonnat,Mescaline,0.71,0.82
+2774,Sonnat,Mescaline,0.65,0.77
+2775,Sonnat,Mescaline,0.7,0.65
+2776,Sonnat,Mescaline,0.73,0.76
+2777,Sonnat,Mescaline,0.58,0.72
+2778,Sonnat,Mescaline,0.64,0.63
+2779,Sonnat,Mescaline,0.68,0.81
+2780,Sonnat,Mescaline,0.71,0.69
+2781,Sonnat,Mescaline,0.6,0.67
+2782,Sonnat,Mescaline,0.64,0.75
+2783,Sonnat,Mescaline,0.6,0.69
+2784,Sonnat,Mescaline,0.55,0.67
+2785,Sonnat,Mescaline,0.7,0.59
+2786,Sonnat,Mescaline,0.67,0.66
+2787,Sonnat,Mescaline,0.74,0.8
+2788,Sonnat,Mescaline,0.61,0.75
+2789,Sonnat,Mescaline,0.68,0.68
+2790,Sonnat,Mescaline,0.72,0.71
+2791,Sonnat,Mescaline,0.51,0.72
+2792,Sonnat,Mescaline,0.62,0.59
+2793,Sonnat,Mescaline,0.66,0.66
+2794,Sonnat,Mescaline,0.66,0.63
+2795,Sonnat,Mescaline,0.51,0.66
+2796,Sonnat,Mescaline,0.5,0.64
+2797,Sonnat,Mescaline,0.6,0.68
+2798,Sonnat,Mescaline,0.53,0.62
+2799,Sonnat,Mescaline,0.62,0.65
+2800,Llama ,Mescaline,0.63,0.75
+2801,Llama ,Mescaline,0.69,0.74
+2802,Llama ,Mescaline,0.67,0.75
+2803,Llama ,Mescaline,0.66,0.79
+2804,Llama ,Mescaline,0.69,0.68
+2805,Llama ,Mescaline,0.69,0.78
+2806,Llama ,Mescaline,0.67,0.72
+2807,Llama ,Mescaline,0.77,0.69
+2808,Llama ,Mescaline,0.68,0.73
+2809,Llama ,Mescaline,0.68,0.74
+2810,Llama ,Mescaline,0.67,0.81
+2811,Llama ,Mescaline,0.72,0.68
+2812,Llama ,Mescaline,0.66,0.73
+2813,Llama ,Mescaline,0.66,0.75
+2814,Llama ,Mescaline,0.67,0.76
+2815,Llama ,Mescaline,0.65,0.74
+2816,Llama ,Mescaline,0.62,0.72
+2817,Llama ,Mescaline,0.71,0.75
+2818,Llama ,Mescaline,0.73,0.82
+2819,Llama ,Mescaline,0.76,0.85
+2820,Llama ,Mescaline,0.65,0.72
+2821,Llama ,Mescaline,0.63,0.72
+2822,Llama ,Mescaline,0.73,0.79
+2823,Llama ,Mescaline,0.77,0.72
+2824,Llama ,Mescaline,0.7,0.77
+2825,Llama ,Mescaline,0.57,0.77
+2826,Llama ,Mescaline,0.7,0.72
+2827,Llama ,Mescaline,0.67,0.7
+2828,Llama ,Mescaline,0.67,0.73
+2829,Llama ,Mescaline,0.63,0.71
+2830,Llama ,Mescaline,0.74,0.72
+2831,Llama ,Mescaline,0.68,0.69
+2832,Llama ,Mescaline,0.61,0.75
+2833,Llama ,Mescaline,0.62,0.79
+2834,Llama ,Mescaline,0.68,0.71
+2835,Llama ,Mescaline,0.66,0.69
+2836,Llama ,Mescaline,0.65,0.7
+2837,Llama ,Mescaline,0.68,0.73
+2838,Llama ,Mescaline,0.67,0.68
+2839,Llama ,Mescaline,0.65,0.74
+2840,Llama ,Mescaline,0.65,0.65
+2841,Llama ,Mescaline,0.71,0.67
+2842,Llama ,Mescaline,0.69,0.7
+2843,Llama ,Mescaline,0.66,0.77
+2844,Llama ,Mescaline,0.7,0.72
+2845,Llama ,Mescaline,0.61,0.62
+2846,Llama ,Mescaline,0.69,0.72
+2847,Llama ,Mescaline,0.61,0.73
+2848,Llama ,Mescaline,0.61,0.71
+2849,Llama ,Mescaline,0.7,0.71
+2850,Llama ,Mescaline,0.58,0.75
+2851,Llama ,Mescaline,0.73,0.72
+2852,Llama ,Mescaline,0.67,0.8
+2853,Llama ,Mescaline,0.67,0.67
+2854,Llama ,Mescaline,0.64,0.72
+2855,Llama ,Mescaline,0.69,0.75
+2856,Llama ,Mescaline,0.69,0.74
+2857,Llama ,Mescaline,0.7,0.67
+2858,Llama ,Mescaline,0.65,0.71
+2859,Llama ,Mescaline,0.71,0.77
+2860,Llama ,Mescaline,0.56,0.7
+2861,Llama ,Mescaline,0.65,0.75
+2862,Llama ,Mescaline,0.66,0.76
+2863,Llama ,Mescaline,0.69,0.74
+2864,Llama ,Mescaline,0.64,0.81
+2865,Llama ,Mescaline,0.63,0.69
+2866,Llama ,Mescaline,0.65,0.75
+2867,Llama ,Mescaline,0.67,0.77
+2868,Llama ,Mescaline,0.66,0.72
+2869,Llama ,Mescaline,0.6,0.68
+2870,Llama ,Mescaline,0.62,0.72
+2871,Llama ,Mescaline,0.66,0.8
+2872,Llama ,Mescaline,0.71,0.77
+2873,Llama ,Mescaline,0.62,0.81
+2874,Llama ,Mescaline,0.71,0.73
+2875,Llama ,Mescaline,0.67,0.69
+2876,Llama ,Mescaline,0.73,0.69
+2877,Llama ,Mescaline,0.7,0.74
+2878,Llama ,Mescaline,0.61,0.71
+2879,Llama ,Mescaline,0.64,0.66
+2880,Llama ,Mescaline,0.72,0.73
+2881,Llama ,Mescaline,0.71,0.69
+2882,Llama ,Mescaline,0.68,0.75
+2883,Llama ,Mescaline,0.63,0.71
+2884,Llama ,Mescaline,0.64,0.75
+2885,Llama ,Mescaline,0.64,0.73
+2886,Llama ,Mescaline,0.66,0.72
+2887,Llama ,Mescaline,0.68,0.74
+2888,Llama ,Mescaline,0.72,0.75
+2889,Llama ,Mescaline,0.74,0.71
+2890,Llama ,Mescaline,0.66,0.72
+2891,Llama ,Mescaline,0.63,0.67
+2892,Llama ,Mescaline,0.66,0.74
+2893,Llama ,Mescaline,0.7,0.71
+2894,Llama ,Mescaline,0.66,0.65
+2895,Llama ,Mescaline,0.67,0.74
+2896,Llama ,Mescaline,0.68,0.72
+2897,Llama ,Mescaline,0.68,0.71
+2898,Llama ,Mescaline,0.65,0.79
+2899,Llama ,Mescaline,0.71,0.72
+2900,Falcon,Mescaline,0.57,0.63
+2901,Falcon,Mescaline,0.58,0.7
+2902,Falcon,Mescaline,0.6,0.63
+2903,Falcon,Mescaline,0.62,0.72
+2904,Falcon,Mescaline,0.59,0.68
+2905,Falcon,Mescaline,0.6,0.74
+2906,Falcon,Mescaline,0.51,0.7
+2907,Falcon,Mescaline,0.53,0.72
+2908,Falcon,Mescaline,0.65,0.66
+2909,Falcon,Mescaline,0.58,0.75
+2910,Falcon,Mescaline,0.46,0.64
+2911,Falcon,Mescaline,0.68,0.69
+2912,Falcon,Mescaline,0.71,0.65
+2913,Falcon,Mescaline,0.63,0.68
+2914,Falcon,Mescaline,0.66,0.64
+2915,Falcon,Mescaline,0.5,0.7
+2916,Falcon,Mescaline,0.58,0.71
+2917,Falcon,Mescaline,0.66,0.69
+2918,Falcon,Mescaline,0.59,0.73
+2919,Falcon,Mescaline,0.57,0.69
+2920,Falcon,Mescaline,0.58,0.65
+2921,Falcon,Mescaline,0.64,0.61
+2922,Falcon,Mescaline,0.68,0.63
+2923,Falcon,Mescaline,0.55,0.72
+2924,Falcon,Mescaline,0.64,0.69
+2925,Falcon,Mescaline,0.49,0.69
+2926,Falcon,Mescaline,0.61,0.7
+2927,Falcon,Mescaline,0.58,0.69
+2928,Falcon,Mescaline,0.52,0.67
+2929,Falcon,Mescaline,0.62,0.63
+2930,Falcon,Mescaline,0.68,0.66
+2931,Falcon,Mescaline,0.55,0.71
+2932,Falcon,Mescaline,0.67,0.68
+2933,Falcon,Mescaline,0.71,0.74
+2934,Falcon,Mescaline,0.63,0.72
+2935,Falcon,Mescaline,0.57,0.68
+2936,Falcon,Mescaline,0.52,0.62
+2937,Falcon,Mescaline,0.57,0.7
+2938,Falcon,Mescaline,0.6,0.65
+2939,Falcon,Mescaline,0.5,0.66
+2940,Falcon,Mescaline,0.71,0.62
+2941,Falcon,Mescaline,0.53,0.7
+2942,Falcon,Mescaline,0.74,0.67
+2943,Falcon,Mescaline,0.62,0.72
+2944,Falcon,Mescaline,0.64,0.66
+2945,Falcon,Mescaline,0.64,0.66
+2946,Falcon,Mescaline,0.6,0.64
+2947,Falcon,Mescaline,0.73,0.68
+2948,Falcon,Mescaline,0.69,0.68
+2949,Falcon,Mescaline,0.43,0.72
+2950,Falcon,Mescaline,0.65,0.69
+2951,Falcon,Mescaline,0.51,0.69
+2952,Falcon,Mescaline,0.55,0.68
+2953,Falcon,Mescaline,0.56,0.62
+2954,Falcon,Mescaline,0.59,0.64
+2955,Falcon,Mescaline,0.7,0.77
+2956,Falcon,Mescaline,0.65,0.73
+2957,Falcon,Mescaline,0.61,0.74
+2958,Falcon,Mescaline,0.48,0.64
+2959,Falcon,Mescaline,0.51,0.71
+2960,Falcon,Mescaline,0.66,0.61
+2961,Falcon,Mescaline,0.51,0.75
+2962,Falcon,Mescaline,0.54,0.63
+2963,Falcon,Mescaline,0.73,0.65
+2964,Falcon,Mescaline,0.7,0.64
+2965,Falcon,Mescaline,0.55,0.69
+2966,Falcon,Mescaline,0.56,0.7
+2967,Falcon,Mescaline,0.62,0.64
+2968,Falcon,Mescaline,0.53,0.65
+2969,Falcon,Mescaline,0.63,0.68
+2970,Falcon,Mescaline,0.63,0.71
+2971,Falcon,Mescaline,0.52,0.79
+2972,Falcon,Mescaline,0.61,0.66
+2973,Falcon,Mescaline,0.6,0.63
+2974,Falcon,Mescaline,0.61,0.61
+2975,Falcon,Mescaline,0.56,0.68
+2976,Falcon,Mescaline,0.72,0.68
+2977,Falcon,Mescaline,0.64,0.69
+2978,Falcon,Mescaline,0.63,0.69
+2979,Falcon,Mescaline,0.54,0.6
+2980,Falcon,Mescaline,0.64,0.71
+2981,Falcon,Mescaline,0.69,0.7
+2982,Falcon,Mescaline,0.66,0.62
+2983,Falcon,Mescaline,0.7,0.75
+2984,Falcon,Mescaline,0.71,0.74
+2985,Falcon,Mescaline,0.67,0.7
+2986,Falcon,Mescaline,0.55,0.64
+2987,Falcon,Mescaline,0.64,0.69
+2988,Falcon,Mescaline,0.54,0.69
+2989,Falcon,Mescaline,0.54,0.64
+2990,Falcon,Mescaline,0.65,0.73
+2991,Falcon,Mescaline,0.65,0.65
+2992,Falcon,Mescaline,0.71,0.68
+2993,Falcon,Mescaline,0.63,0.72
+2994,Falcon,Mescaline,0.76,0.66
+2995,Falcon,Mescaline,0.54,0.78
+2996,Falcon,Mescaline,0.7,0.65
+2997,Falcon,Mescaline,0.6,0.66
+2998,Falcon,Mescaline,0.69,0.67
+2999,Falcon,Mescaline,0.69,0.69
